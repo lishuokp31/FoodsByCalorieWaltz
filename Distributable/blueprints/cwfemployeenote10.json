@@ -1,0 +1,17 @@
+{
+    "Name": "cwfemployeenote10",
+    "RequiredGear": [{"Item":"GEAR_ptarmiganfeathers","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_cwfemployeenote10",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 5,
+    "CraftingAudio": "Play_MapCharcoalWriting",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
