@@ -5,7 +5,7 @@
 		"Japanese": "まっさら",
 		"German": "Brandneu",
 		"Turkish": "Yepyeni"
-		
+		"Simplified Chinese":"全新"
 	},
 	"CWF_candleLeft90": {
 		"English": "Almost full",
@@ -13,6 +13,7 @@
 		"Japanese": "ほぼ新品",
 		"German": "Fast voll",
 		"Turkish": "Neredeyse dolu"
+		"Simplified Chinese":"满状态"
 	},
 	"CWF_candleLeft75": {
 		"English": "About three quarters left",
@@ -20,6 +21,7 @@
 		"Japanese": "およそ四分の三",
 		"German": "Etwa drei Viertel übrig",
 		"Turkish": "Yaklaşık dörtte üçü kaldı"
+		"Simplified Chinese":"还剩四分之三"
 	},
 	"CWF_candleLeft50": {
 		"English": "About a half left",
@@ -27,6 +29,7 @@
 		"Japanese": "ほぼ半分",
 		"German": "Über die Hälfte übrig",
 		"Turkish": "Yaklaşık yarısı kaldı"
+		"Simplified Chinese":"还剩一半"
 	},
 	"CWF_candleLeft25": {
 		"English": "About a quarter left",
@@ -34,6 +37,7 @@
 		"Japanese": "およそ四分の一",
 		"German": "Etwa ein Viertel übrig",
 		"Turkish": "Yaklaşık çeyreği kaldı"
+		"Simplified Chinese":"还剩四分之一"
 	},
 	"CWF_candleLeft7": {
 		"English": "Almost done",
@@ -41,6 +45,7 @@
 		"Japanese": "燃え尽きている",
 		"German": "Fast leer",
 		"Turkish": "Neredeyse bitti"
+		"Simplified Chinese":"燃烧殆尽"
 	},
 	"GAMEPLAY_bananaChips": {
 		"English": "Banana Chips",
@@ -49,6 +54,7 @@
 		"Japanese": "バナナチップス",
 		"German": "Bananenchips",
 		"Turkish": "Muz Cipsi"
+		"Simplified Chinese":"香蕉脆片"
 	},
 	"GAMEPLAY_bananaChipsDescription": {
 		"English": "Dried banana with sugar. Dry and sweet. Too sweet",
@@ -57,6 +63,7 @@
 		"Japanese": "砂糖がかかった乾燥バナナチップ。乾燥していて甘い。甘すぎるくらいだ。",
 		"German": "Getrocknete Bananenscheiben mit Zucker. Trocken und süß. Zu süß",
 		"Turkish": "Şeker ilave edilmiş kurutulmuş muz. Kuru ve Tatlı. Bayağı tatlı."
+		"Simplified Chinese":"喂了糖的香蕉片，又干又甜，甜过头了，脱水+15%"
 	},
 	"GAMEPLAY_crabSnack": {
 		"English": "Crab Wheat Chips",
@@ -65,6 +72,7 @@
 		"Japanese": "かにスナック",
 		"German": "Krabbenweizenchips",
 		"Turkish": "Buğdaylı Yengeç Cipsi"
+		"Simplified Chinese":"蟹肉麦片"
 	},
 	"GAMEPLAY_crabSnackDescription": {
 		"English": "Crunchy little crabs. Extremely tasty, but also exceptionally dry",
@@ -73,6 +81,7 @@
 		"Japanese": "パリパリした小さなカニ入り。とてもおいしいが、非常にのどが渇く。",
 		"German": "Knusprige kleine Krabben. Sehr geschmackvoll, aber auch außergewöhnlich trocken",
 		"Turkish": "Gevrek küçük yengeçler. Son derece lezzetli ama aynı zamanda son derece kuru"
+		"Simplified Chinese":"香脆可口，居家旅行的常备零食。但食用后容易口渴，脱水+30%"
 	},
 	"GAMEPLAY_honeyNuts": {
 		"English": "Nuts in Honey",
@@ -81,6 +90,7 @@
 		"Japanese": "ハニーナッツ",
 		"German": "Nüsse in Honig",
 		"Turkish": "Fındıklı Bal"
+		"Simplified Chinese":"蜂蜜坚果"
 	},
 	"GAMEPLAY_honeyNutsDescription": {
 		"English": "Lasts forever. If the lid is tight.\n\nEating too much will cause digestion problems. Do not consume without hot tea!",
@@ -89,6 +99,7 @@
 		"Japanese": "しっかり蓋をしていればずっと長持ちする。\n\n食べ過ぎると胃もたれする。熱いお茶なしでは食べきれない",
 		"German": "Hält ewig, wenn der Deckel zu ist.\n\nZu viel davon führt zu Verdauungsproblemen. Nicht ohne heißen Tee verzehren!",
 		"Turkish": "Kapak sıkıysa sonsuza kadar saklanabilir. Çok yemek sindirim problemlerine yol açar. Sıcak çay olmadan tüketmeyin!"
+		"Simplified Chinese":"盖子拧紧的话永不变质\n\n吃太多会导致消化不良，不要在没有热茶的情况下全部食用，脱水+20%"
 	},
 	"GAMEPLAY_hotSpringSoda": {
 		"English": "Hot Spring Soda",
@@ -97,6 +108,7 @@
 		"Japanese": "ホットスプリングソーダ",
 		"German": "Quellwasser-Soda",
 		"Turkish": "Kaplıca Gazozu"
+		"Simplified Chinese":"温泉苏打水"
 	},
 	"GAMEPLAY_hotSpringSodaDescription": {
 		"English": "Essentially god's nectar. Will make you appreciate life more",
@@ -105,6 +117,7 @@
 		"Japanese": "まさしく神の飲み物。生きていることに感謝したくなる。",
 		"German": "Im Wesentlichen der Nektar Gottes. Dadurch wirst du dein Leben mehr schätzen",
 		"Turkish": "Esasen yaz meyveli. Hayatı daha çok takdir etmeni sağlayacak"
+		"Simplified Chinese":"普降甘露，珍爱美好生活。口渴恢复35%"
 	},
 	"GAMEPLAY_jubileeCookies": {
 		"English": "Ginger Cookies",
@@ -113,6 +126,7 @@
 		"Japanese": "ジンジャークッキー",
 		"German": "Ingwer-Kekse",
 		"Turkish": "Zencefilli kurabiyeler"
+		"Simplified Chinese":"姜味曲奇"
 	},
 	"GAMEPLAY_jubileeCookiesDescription": {
 		"English": "Crunchy outside, soft inside. The perfect combination",
@@ -121,6 +135,7 @@
 		"Japanese": "外はサクサク、中はやわらか。完璧なコンビネーションだ。",
 		"German": "Außen knusprig, innen weich. Die perfekte Kombination",
 		"Turkish": "Dışı çıtır, içi yumuşacık. Mükemmel uyum"
+		"Simplified Chinese":"外松里软，完美的结合。脱水+15%"
 	},
 	"GAMEPLAY_marinaraMackerel": {
 		"English": "Mackerel in Marinara Sauce",
@@ -129,6 +144,7 @@
 		"Japanese": "サバのマリナラソース漬け",
 		"German": "Makrele in Marinara-Sauce",
 		"Turkish": "Marinara Soslu Uskumru"
+		"Simplified Chinese":"酱汁鲭鱼"
 	},
 	"GAMEPLAY_marinaraMackerelDescription": {
 		"English": "Tender and savory mackerel filet. Add some vegetable ragout and the perfect dinner is ready",
@@ -137,6 +153,7 @@
 		"Japanese": "柔らかくて美味しいサバの切り身。野菜シチューを追加すれば完璧なディナーの出来上がり。",
 		"German": "Zartes, herzhaftes Makrelenfilet. Füge etwas Gemüseragout hinzu und fertig ist das perfekte Abendessen",
 		"Turkish": "Yumuşak ve lezzetli uskumru filetosu. Biraz sebze yahnisi ekleyin ve mükemmel akşam yemeği hazır."
+		"Simplified Chinese":"嫩滑可口的鲭鱼排加入调好的番茄汁，最佳的晚餐就准备好了。"
 	},
 	"GAMEPLAY_mysteryCake": {
 		"English": "Assorted Wafers",
@@ -145,6 +162,7 @@
 		"Japanese": "ウエハースの詰め合わせ",
 		"German": "Waffelmischung",
 		"Turkish": "Karışık Gofretler"
+		"Simplified Chinese":"巧克力果仁威化饼"
 	},
 	"GAMEPLAY_mysteryCakeDescription": {
 		"English": "Wafers with chocolate and praline. Filling will pleasantly surprise you",
@@ -153,6 +171,7 @@
 		"Japanese": "チョコレートとプラリネが入ったウエハース。楽しい驚きをあなたに。",
 		"German": "Waffeln mit Schokolade und Pralinen. Die Füllung wird Sie angenehm überraschen",
 		"Turkish": "Çikolatalı ve badem şekerli gofretler sizi hoş bir şekilde şaşırtacak"
+		"Simplified Chinese":"巧克力果仁夹心，能否取悦您？脱水+20%"
 	},
 	"GAMEPLAY_nannasOats": {
 		"English": "Nanna's Oats",
@@ -161,6 +180,7 @@
 		"Japanese": "ナンナのオートミール",
 		"German": "Nanna's Hafer",
 		"Turkish": "Yulaf Ezmesi"
+		"Simplified Chinese":"嬷嬷的燕麦"
 	},
 	"GAMEPLAY_nannasOatsDescription": {
 		"English": "Needs water. Better with berries",
@@ -169,6 +189,7 @@
 		"Japanese": "食べるには水が必要。ベリーの類もあればなお良し。",
 		"German": "Benötigt Wasser. Besser mit Beeren",
 		"Turkish": "Suya ihtiyacı var. Çilek ile daha iyi"
+		"Simplified Chinese":"需要用水勾兑，来点浆果调味就更好了"
 	},
 	"GAMEPLAY_oatsBowl": {
 		"English": "Oatmeal",
@@ -177,6 +198,7 @@
 		"Japanese": "調理済みオートミール",
 		"German": "Haferflocken",
 		"Turkish": "Hazırlanmış Yulaf Ezmesi"
+		"Simplified Chinese":"燕麦粥"
 	},
 	"GAMEPLAY_oatsBowlDescription": {
 		"English": "Bowl of plain oats. Nutritious but tastes like rag",
@@ -185,6 +207,7 @@
 		"Japanese": "プレーンオートミール。栄養たっぷりだが布切れみたいな味がする。",
 		"German": "Eine Schüssel Haferflocken. Nahrhaft, aber schmeckt nach Lumpen",
 		"Turkish": "Bir kase sade yulaf. Besleyici ama tadı paçavra gibi"
+		"Simplified Chinese":"普通的燕麦粥，营养丰富但吃起来像嚼抹布。口渴恢复15%"
 	},
 	"GAMEPLAY_pinenutBrittle": {
 		"English": "Pine Nut Brittle Candy",
@@ -193,6 +216,7 @@
 		"Japanese": "松の実キャンディー",
 		"German": "Kiefernnuss-Krokantbonbons",
 		"Turkish": "Çam Fıstıklı Gevrek Şeker"
+		"Simplified Chinese":"松子糖"
 	},
 	"GAMEPLAY_pinenutBrittleDescription": {
 		"English": "Little nuts in caramel. Don't break your teeth!",
@@ -201,6 +225,7 @@
 		"Japanese": "松の実をカラメルで固めてある。歯を折らないように注意！",
 		"German": "Kleine Nüsse in Karamel. Brich dir nicht die Zähne aus!",
 		"Turkish": "Karamelin içinde küçük fındıklar. Dişlerini kırma!"
+		"Simplified Chinese":"小小的坚果裹上焦糖，别硌掉你的牙。脱水+20%"
 	},
 	"GAMEPLAY_solitudeCider": {
 		"English": "Solitude Cider",
@@ -209,6 +234,7 @@
 		"Japanese": "ソリチュードサイダー",
 		"German": "Solitude Apfelwein",
 		"Turkish": "Elma Şarabı"
+		"Simplified Chinese":"野苹果酒"
 	},
 	"GAMEPLAY_solitudeCiderDescription": {
 		"English": "Semi-sweet berry cider. Doesn't get better than that.\n\nAlcohol 6% vol",
@@ -217,6 +243,7 @@
 		"Japanese": "ほのかに甘いベリーサイダー。これ以上のものはないだろう。\n\nアルコール度数6％。",
 		"German": "Halbsüßer Beeren-Apfelwein. Besser geht es nicht.\n\nAlkoholgehalt: 6%",
 		"Turkish": "Yarı tatlı elma şarabı. Bundan iyisi olamaz.\n\n%6 Alkollü "
+		"Simplified Chinese":"半甜型果酒，没有比这更棒的了。酒精含量6%，口渴恢复25%"
 	},
 	"GAMEPLAY_tunaPate": {
 		"English": "Tuna Pate",
@@ -225,6 +252,7 @@
 		"Japanese": "ツナのパテ",
 		"German": "Thunfischpastete",
 		"Turkish": "Ton balıklı ezme"
+		"Simplified Chinese":"金枪鱼肉酱"
 	},
 	"GAMEPLAY_tunaPateDescription": {
 		"English": "Delicious, almost sweet pate. Best with salty crackers",
@@ -233,6 +261,7 @@
 		"Japanese": "おいしいツナのパテ。塩クラッカーの最高の友。",
 		"German": "Köstliche, fast süße Pastete. Am besten mit salzigen Crackern",
 		"Turkish": "Lezzetli, neredeyse tatlı ezme. Tuzlu kraker ile en iyisi"
+		"Simplified Chinese":"甜美的肉酱，最好搭配咸饼干一块吃。脱水+5%"
 	},
 	"GAMEPLAY_lecso": {
 		"English": "Lecsó",
@@ -241,6 +270,7 @@
 		"Japanese": "レチョーの缶詰",
 		"German": "Letscho",
 		"Turkish": "Lescó"
+		"Simplified Chinese":"青椒炖菜"
 	},
 	"GAMEPLAY_lecsoDescription": {
 		"English": "Vegetable ragout. Begs for some baked fish\n\nPronounced ''lecho''",
@@ -249,6 +279,7 @@
 		"Japanese": "ハンガリーの野菜シチュー。こんがり焼けた魚が欲しくなる。",
 		"German": "Gemüseragout. Bittet um etwas gebackenen Fisch",
 		"Turkish": "Sebze yahnisi. Pişmiş balık için yalvarır\n\n''lecho'' olarak telaffuz edilir"
+		"Simplified Chinese":"Lecsó是匈牙利特色菜，通常以青椒，红椒或番茄为主料的蔬菜乱炖。\n\n发音为''lecho''，可冷食也可开盖烹煮"
 	},
 	"GAMEPLAY_figConfiture": {
 		"English": "Fig Confiture",
@@ -257,6 +288,7 @@
 		"Japanese": "イチジクのコンフィチュール",
 		"German": "Feigenkonfitüre",
 		"Turkish": "İncir reçeli"
+		"Simplified Chinese":"无花果酱"
 	},
 	"GAMEPLAY_figConfitureDescription": {
 		"English": "Jam. Perfectly sweet with a little crunch",
@@ -265,6 +297,7 @@
 		"Japanese": "イチジクのジャム。とても甘くてちょっぴり歯ごたえがある。",
 		"German": "Marmelade. Perfekt süß mit ein wenig Biss",
 		"Turkish": "Reçel. Parçacıklı ve mükemmel tatlı."
+		"Simplified Chinese":"甜甜的果酱，嚼起来能发出嘎吱嘎吱的响声。脱水+10%"
 	},
 	"GAMEPLAY_nordShoreChocolate": {
 		"English": "Dark Chocolate with Salt and Caramel",
@@ -273,6 +306,7 @@
 		"Japanese": "塩とカラメル入りダークチョコレート",
 		"German": "Dunkle Schokolade mit Salz und Karamell",
 		"Turkish": "Tuzlu ve Karamelli Bitter Çikolata"
+		"Simplified Chinese":"黑巧克力(盐焦糖味)"
 	},
 	"GAMEPLAY_nordShoreChocolateDescription": {
 		"English": "Just taste it, you won't notice when it's gone",
@@ -281,6 +315,7 @@
 		"Japanese": "一口食べたら止まらない味。",
 		"German": "Probier es einfach, du wirst es nicht merken, wenn es weg ist",
 		"Turkish": "Sadece tadına bak, bittiğinde fark etmeyeceksin"
+		"Simplified Chinese":"掰开一块放入嘴里，让你体验什么叫丝滑般的融化。脱水+5%"
 	},
 	"GAMEPLAY_kvass": {
 		"English": "Kvass",
@@ -289,6 +324,7 @@
 		"Japanese": "クワース",
 		"German": "Kwass",
 		"Turkish": "Kvass"
+		"Simplified Chinese":"格瓦斯"
 	},
 	"GAMEPLAY_kvassDescription": {
 		"English": "Barely alcoholic, fizzy and refreshing with suble sweet taste",
@@ -297,6 +333,7 @@
 		"Japanese": "炭酸アルコール飲料。爽やかさとほのかな甘みがあなたをリフレッシュ。",
 		"German": "Kaum alkoholisch, spritzig und erfrischend mit dezent süßem Geschmack",
 		"Turkish": "Bir rus birası. Az alkollü, gazlı ve hafif tatlı tadıyla ferahlatıcı"
+		"Simplified Chinese":"几乎不含酒精，口感清爽，有略微的甜味。口渴恢复40%"
 	},
 	"GAMEPLAY_roastedAlmonds": {
 		"English": "Roasted Almonds",
@@ -305,6 +342,7 @@
 		"Japanese": "ローストアーモンド",
 		"German": "Geröstete Mandeln",
 		"Turkish": "Kavrulmuş Badem"
+		"Simplified Chinese":"烤杏仁"
 	},
 	"GAMEPLAY_roastedAlmondsDescription": {
 		"English": "Little nuts, a little salty, a little spicy",
@@ -313,6 +351,7 @@
 		"Japanese": "小粒でちょっぴりしょっぱく、そしてちょっぴりスパイシー。",
 		"German": "Kleine Nüsse, ein bisschen salzig, ein bisschen würzig",
 		"Turkish": "Biraz fındıklı, biraz tuzlu, biraz baharatlı"
+		"Simplified Chinese":"小小的果仁，有点咸还有点甜。脱水+5%"
 	},
 	"GAMEPLAY_strawberryPlombir": {
 		"English": "Wild Strawberry Plombir",
@@ -321,6 +360,7 @@
 		"Japanese": "ストロベリーアイスバー",
 		"German": "Wilderdbeeren-Plombir",
 		"Turkish": "Dağ Çilekli Dondurma"
+		"Simplified Chinese":"普隆别尔山莓雪糕"
 	},
 	"GAMEPLAY_strawberryPlombirDescription": {
 		"English": "Sweet and soft, just melts on your tongue. May not be a good idea to eat when you cold",
@@ -329,6 +369,7 @@
 		"Japanese": "甘くて舌の上ですぐ溶けるくらい柔らか。寒い時に食べるのはお勧めできないけど。",
 		"German": "Süß und weich, zergeht auf der Zunge. Möglicherweise keine gute Idee, wenn dir kalt ist",
 		"Turkish": "Tatlı ve yumuşak, dilinizde eriyor. Üşüdüğünde bunu yemek iyi bir fikir olmayabilir"
+		"Simplified Chinese":"香甜绵软，入口即化。不建议冷天食用。脱水+5%"
 	},
 	"GAMEPLAY_icecreamCup": {
 		"English": "Icecream in a Wafer Cup",
@@ -337,6 +378,7 @@
 		"Japanese": "ウエハースカップ入りのアイス",
 		"German": "Eiscreme im Waffelbecher",
 		"Turkish": "Gofretli Dondurma"
+		"Simplified Chinese":"威化冰淇淋甜筒"
 	},
 	"GAMEPLAY_icecreamCupDescription": {
 		"English": "Blizzard with chocolate, nuts and caramel mixed in. All in a crunchy wafer cup. Wow\n\nThanks for asking, penguin's name is Jeremy",
@@ -345,6 +387,7 @@
 		"Japanese": "アイスクリームとチョコレート、ナッツ、そしてキャラメルがパリッとしたウエハースのカップに入っている。\n\nよく聞いてくれました、ペンギン君の名前はジェレミーだよ。",
 		"German": "Eis mit Schokoladen, Nüssen und Karamell. Alles in einem knusprigen Waffelbecher. Wow\n\nDanke der Nachfrage, der Name des Pinguins ist Jeremy",
 		"Turkish": "Çikolata, Fındık ve karamel ile dondurulmuş çıtır gofret.\n\nSorduğun için teşekürler. Penguenin adı Jeremy."
+		"Simplified Chinese":"暴雪配料通常由巧克力和黄油奶糖组成，撒上果仁并将所有的这些全部放置在一个松脆的威化筒中。脱水+10%\n\n感谢提醒，外包装盒上的小企鹅名叫Jeremy"
 	},
 	"GAMEPLAY_applesaucePryanik": {
 		"English": "Pryanik with Applesauce Filling",
@@ -353,6 +396,7 @@
 		"Japanese": "アップルソース入りプリャーニク",
 		"German": "Lebkuchen mit Apfelmusfüllung",
 		"Turkish": "Elma dolgulu zencefilli kurabiye"
+		"Simplified Chinese":"苹果糕饼"
 	},
 	"GAMEPLAY_applesaucePryanikDescription": {
 		"English": "Glazed honey biscuits. Sweet, soft and aromatic. Perfect complement to a cup of hot tea\n\nCheck out the inside!",
@@ -361,6 +405,7 @@
 		"Japanese": "はちみつをからめたビスケット。甘く柔らかくいい香り。熱いお茶に完璧に合う。\n\n中身に注目！",
 		"German": "Glasiertes Honiggebäck. Süß, weich und aromatisch. Perfekte Ergänzung zu einer heißen Tasse Tee\n\nSchauen Sie sich das Innere an!",
 		"Turkish": "Elma dolgulu zencefilli kurabiye. Tatlı, hassas ve aromatik. Bir fincan sıcak çayın mükemmel eşlikçisi\n\nİçinde ne olduğunu görün"
+		"Simplified Chinese":"丝滑蜜烤糕饼，松软香甜。配上一杯热茶温暖整个寒冬。脱水+10%\n\n 拆开包装盒看看"
 	},
 	"GAMEPLAY_glintwein": {
 		"English": "Mulled Wine Kit",
@@ -369,6 +414,7 @@
 		"Japanese": "温ワインセット",
 		"German": "Glühwein-Set",
 		"Turkish": "Sıcak Şarap Seti"
+		"Simplified Chinese":"热红酒包装件"
 	},
 	"GAMEPLAY_glintweinDescription": {
 		"English": "They call it Glintwein in Russia. Includes red wine and spices. Bring everything to a simmer(don't boil!) and enjoy your cold winter evenings",
@@ -377,6 +423,7 @@
 		"Japanese": "ロシアではグリントワインと呼ばれる。赤ワインとスパイス入り。ワインにスパイスを入れて温めたら（煮立てないこと！）寒い冬の夜も楽しいものになる。",
 		"German": "In Russland nennt man es Glintwein. Enthält Rotwein und Gewürze. Bringen Sie alles zum Köcheln (nicht kochen!) und genießen Sie Ihre kalten Winterabende",
 		"Turkish": "Rusya'da buna Glintwein diyorlar. Kırmızı şarap ve baharatlar içerir. Her şeyi ısıtın (kaynatmayın!) ve soğuk kış akşamlarınızın tadını çıkarın"
+		"Simplified Chinese":"俄文名叫Glintwein，将红酒和香料用文火烹煮(不要烧开)，一杯冬日特饮伴您温暖入冬。"
 	},
 	"GAMEPLAY_glintweinCup": {
 		"English": "Mulled Wine Glass",
@@ -385,6 +432,7 @@
 		"Japanese": "グラス入り温ワイン",
 		"German": "Glühweinglas",
 		"Turkish": "Sıcak Şarap Kadehi"
+		"Simplified Chinese":"热红酒"
 	},
 	"GAMEPLAY_glintweinCupDescription": {
 		"English": "Warms your heart, literally and figuratively",
@@ -393,6 +441,7 @@
 		"Japanese": "君を体の芯からも、心の底からも温めてくれる。",
 		"German": "Wärmt dein Herz, buchstäblich und bildlich",
 		"Turkish": "Kelimenin tam anlamıyla ve mecazi olarak içini ısıtır"
+		"Simplified Chinese":"温暖汝心，表里如一 (口渴恢复15%)"
 	},
 	"GAMEPLAY_latteDrops": {
 		"English": "Latte Drops",
@@ -401,6 +450,7 @@
 		"Japanese": "カフェラッテドロップ",
 		"German": "Latte-Drops",
 		"Turkish": "latte damlaları"
+		"Simplified Chinese":"水滴咖啡"
 	},
 	"GAMEPLAY_latteDropsDescription": {
 		"English": "Condensed coffee cups in a form of candy. Tastes as good, without the whole brewing hassle. \n\nGives a little energy boost",
@@ -409,6 +459,7 @@
 		"Japanese": "キャンディーの形をした濃縮コーヒー。文句なしに美味しい。\n\nいくらかのエナジーブースト効果あり。",
 		"German": "Milchkaffee in Form von Süßigkeiten. Schmeckt genauso gut, ohne den Aufwand Kaffee zu kochen.\n\nGibt einen kleinen Energieschub",
 		"Turkish": "Şeker şeklinde konsantre kahve. Kesinlikle lezzetli. \n\nBir miktar enerji artırma etkisi vardır"
+		"Simplified Chinese":"糖果形态的浓缩咖啡味道一样很好，不用冲泡，开袋即食 脱水+10%\n\n 提供15分钟疲劳减轻buff奖励"
 	},
 	"GAMEPLAY_alphabetSoup": {
 		"English": "Alphabet Soup",
@@ -417,6 +468,7 @@
 		"Japanese": "アルファベットスープ",
 		"German": "Buchstaben-Suppe",
 		"Turkish": "Alfabe Çorbası"
+		"Simplified Chinese":"字母汤"
 	},
 	"GAMEPLAY_alphabetSoupDescription": {
 		"English": "Classic alphabet soup. Tastes of nostalgia and good mood. \n\nWhat mood came up for you?",
@@ -425,6 +477,7 @@
 		"Japanese": "昔ながらのアルファベットスープ。懐かしい味わいが良い雰囲気を呼び覚ます。\n\nあなたにも良い雰囲気を。",
 		"German": "Klassische Buchstaben-Suppe. Schmeckt nach Nostalgie und guter Laune. \n\nWelche Stimmung kommt bei dir auf?",
 		"Turkish": "Klasik alfabe çorbası. Nostalji tadı ve iyi bir ruh hali. \n\nSizin için hangi ruh hali geldi?"
+		"Simplified Chinese":"经典字母汤的味道能为你营造一个良好的氛围来追忆往事\n\n你现在的心情怎么样？"
 	},
 	"GAMEPLAY_hematogen": {
 		"English": "Hematogen",
@@ -433,6 +486,7 @@
 		"Japanese": "ゲマトーゲン",
 		"German": "Hämatogen",
 		"Turkish": "Hematojen"
+		"Simplified Chinese":"血原棒"
 	},
 	"GAMEPLAY_hematogenDescription": {
 		"English": "Albumin ingredient probably doesn't make a lot of sense. It's blood. \n\nMakes you heal faster, tastes good as a side effect",
@@ -441,6 +495,7 @@
 		"Japanese": "アルブミンの成分を意味するこのネーミングはいささか奇妙ではある。これは血液のことなのだ（材料に牛の血を含む）。\n\n君の回復力を高めてくれるが美味しさについては二の次である。",
 		"German": "Der Inhaltsstoff Albumin macht wahrscheinlich nicht viel Sinn. Es ist Blut. \n\nHeilt dich schneller, und schmeckt nebenbei ganz gut",
 		"Turkish": "Albümin içeriği muhtemelen pek bir anlam ifade etmiyor. Bu kan. \n\nDaha hızlı iyileşmenizi sağlar, yan etki olarak tadı güzeldir"
+		"Simplified Chinese":"血原棒的白蛋白成分起不到作用，这只是血中的专业术语。它可使你的生命恢复速度变的更快(提供2小时恢复身体状态buff)，吃起来味道还不错是因为血原棒中含有糖，炼乳和香兰素等"
 	},
 	"GAMEPLAY_rahatLokum": {
 		"English": "Turkish Delight",
@@ -449,6 +504,7 @@
 		"Japanese": "ターキッシュ・ディライト",
 		"German": "Türkischer Honig",
 		"Turkish": "Türk Lokumu"
+		"Simplified Chinese":"土耳其软糖"
 	},
 	"GAMEPLAY_rahatLokumDescription": {
 		"English": "Delicate, delicious candy. Turkish classic. There's a flavor for everyone, so you can't say you don't like it",
@@ -457,6 +513,7 @@
 		"Japanese": "柔らかく美味しいキャンディー。トルコの伝統菓子。この香りを嫌いだなんて言えるわけがない。",
 		"German": "Zarte, köstliche Süßigkeit. Türkischer Klassiker. Für jeden Geschmack ist etwas dabei, man kann also nicht sagen, dass es jemandem nicht schmeckt",
 		"Turkish": "Lezzetli, lezzetli şeker. Türk klasiği. Herkese göre bir lezzet vardır beğenmedim diyemezsin"
+		"Simplified Chinese":"精致甜美的糖果，土耳其经典特色美食。该糖果有多种口味，总有一种适合你。脱水+20%"
 	},
 	"GAMEPLAY_CandleDescription": {
 		"English": "One of the collectible candle bears. There was a description card somewhere...",
@@ -465,6 +522,7 @@
 		"Japanese": "収集可能なクマのキャンドルの一つ。説明カードはどこだろうか……。",
 		"German": "Eine der Sammelkerzenbären. Irgendwo gab es eine Beschreibungskarte...",
 		"Turkish": "Koleksiyonluk mum ayılarından biri. Bir yerde bir açıklama kartı vardı..."
+		"Simplified Chinese":"一个可收藏的蜡烛熊，在某个地方一定有张明信片..."
 	},
 	"GAMEPLAY_CandleGreenA": {
 		"English": "Candle Bear - Snowballed",
@@ -473,6 +531,7 @@
 		"Japanese": "クマのキャンドル『雪合戦』",
 		"German": "Kerzenbär - Schneeball",
 		"Turkish": "Ayıcık Mumu - Kar Topu"
+		"Simplified Chinese":"蜡烛熊-打雪仗"
 	},
 	"GAMEPLAY_CandleGreenB": {
 		"English": "Candle Bear - Festive",
@@ -481,6 +540,7 @@
 		"Japanese": "クマのキャンドル『お祝い』",
 		"German": "Kerzenbär - Festlich",
 		"Turkish": "Ayıcık Mumu - Festival"
+		"Simplified Chinese":"蜡烛熊-节日"
 	},
 	"GAMEPLAY_CandleGreenC": {
 		"English": "Candle Bear - Delicacy",
@@ -489,6 +549,7 @@
 		"Japanese": "クマのキャンドル『ご馳走』",
 		"German": "Kerzenbär - Delikatesse",
 		"Turkish": "Ayıcık Mumu - Nezaket"
+		"Simplified Chinese":"蜡烛熊-美食"
 	},
 	"GAMEPLAY_CandleGreenD": {
 		"English": "Candle Bear - Dancer",
@@ -497,6 +558,7 @@
 		"Japanese": "クマのキャンドル『踊り手』",
 		"German": "Kerzenbär - Tänzer",
 		"Turkish": "Ayıcık Mumu - Dansçı"
+		"Simplified Chinese":"蜡烛熊-舞蹈家"
 	},
 	"GAMEPLAY_CandleBlueA": {
 		"English": "Candle Bear - Fishing",
@@ -505,6 +567,7 @@
 		"Japanese": "クマのキャンドル『魚釣り』",
 		"German": "Kerzenbär - Angler",
 		"Turkish": "Ayıcık Mumu - Balıkçı"
+		"Simplified Chinese":"蜡烛熊-钓鱼"
 	},
 	"GAMEPLAY_CandleBlueB": {
 		"English": "Candle Bear - Struggle",
@@ -513,6 +576,7 @@
 		"Japanese": "クマのキャンドル『取っ組み合い』",
 		"German": "Kerzenbär - Kampf",
 		"Turkish": "Ayıcık Mumu - Çabalamak"
+		"Simplified Chinese":"蜡烛熊-搏斗"
 	},
 	"GAMEPLAY_CandleBlueC": {
 		"English": "Candle Bear - Friends",
@@ -521,6 +585,7 @@
 		"Japanese": "クマのキャンドル『友達』",
 		"German": "Kerzenbär - Freunde",
 		"Turkish": "Ayıcık Mumu - Arkadaşlar"
+		"Simplified Chinese":"蜡烛熊-老友"
 	},
 	"GAMEPLAY_CandleBlueD": {
 		"English": "Candle Bear - Cards",
@@ -529,6 +594,7 @@
 		"Japanese": "クマのキャンドル『カード』",
 		"German": "Kerzenbär - Karten",
 		"Turkish": "Ayıcık Mumu - Kartlar"
+		"Simplified Chinese":"蜡烛熊-打牌"
 	},
 	"GAMEPLAY_CandlePurpleA": {
 		"English": "Candle Bear - Snow-survivor",
@@ -537,6 +603,7 @@
 		"Japanese": "クマのキャンドル『雪のサバイバー』",
 		"German": "Kerzenbär - Schneeüberlebender",
 		"Turkish": "Ayıcık Mumu - kardan kurtulan"
+		"Simplified Chinese":"蜡烛熊-堆雪人"
 	},
 	"GAMEPLAY_CandlePurpleB": {
 		"English": "Candle Bear - Education",
@@ -545,6 +612,7 @@
 		"Japanese": "クマのキャンドル『お勉強』",
 		"German": "Kerzenbär - Ausbildung",
 		"Turkish": "Ayıcık Mumu - Eğitim"
+		"Simplified Chinese":"蜡烛熊-学者"
 	},
 	"GAMEPLAY_CandlePurpleC": {
 		"English": "Candle Bear - Haul",
@@ -553,6 +621,7 @@
 		"Japanese": "クマのキャンドル『雄たけび』",
 		"German": "Kerzenbär - Schleppen",
 		"Turkish": "Ayıcık Mumu - Hambal"
+		"Simplified Chinese":"蜡烛熊-搬运"
 	},
 	"GAMEPLAY_CandlePurpleD": {
 		"English": "Candle Bear - Present",
@@ -561,6 +630,7 @@
 		"Japanese": "クマのキャンドル『贈り物』",
 		"German": "Kerzenbär - Geschenk",
 		"Turkish": "Ayıcık Mumu - Hediye"
+		"Simplified Chinese":"蜡烛熊-礼物盒"
 	},
 	"GAMEPLAY_CandleRedA": {
 		"English": "Candle Bear - Joke",
@@ -569,6 +639,7 @@
 		"Japanese": "クマのキャンドル『冗談』",
 		"German": "Kerzenbär - Witz",
 		"Turkish": "Ayıcık Mumu - Şaka"
+		"Simplified Chinese":"蜡烛熊-恶作剧"
 	},
 	"GAMEPLAY_CandleRedB": {
 		"English": "Candle Bear - Hellbender",
@@ -577,6 +648,7 @@
 		"Japanese": "クマのキャンドル『大酒飲み』",
 		"German": "Kerzenbär - Schlammteufel",
 		"Turkish": "Ayıcık Mumu - Cehennem bükücü"
+		"Simplified Chinese":"蜡烛熊-闹事者"
 	},
 	"GAMEPLAY_CandleRedC": {
 		"English": "Candle Bear - Dragon",
@@ -585,6 +657,7 @@
 		"Japanese": "クマのキャンドル『竜』",
 		"German": "Kerzenbär - Drache",
 		"Turkish": "Ayıcık Mumu - Ejderha"
+		"Simplified Chinese":"蜡烛熊-龙裔"
 	},
 	"GAMEPLAY_CandleRedD": {
 		"English": "Candle Bear - Moon",
@@ -593,6 +666,7 @@
 		"Japanese": "クマのキャンドル『月』",
 		"German": "Kerzenbär - Mond",
 		"Turkish": "Ayıcık Mumu - Ay"
+		"Simplified Chinese":"蜡烛熊-奔月"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenA": {
 		"English": "Candle Bear -  Snowballed",
@@ -601,6 +675,7 @@
 		"Japanese": "クマのキャンドル『雪合戦』",
 		"German": "Kerzenbär - Schneeball",
 		"Turkish": "Ayıcık Mumu - Kartopu"
+		"Simplified Chinese":"蜡烛熊-打雪仗"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_GreenA": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #01/16",
@@ -609,6 +684,7 @@
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #01/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #01/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #01/16"
+		"Simplified Chinese":"Waltz食物包蜡烛雕像收藏品 #01/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_GreenA": {
 		"English": "Bears are not known to be Great at playing snowballs. But they love playing! When you see a sad-looking bear - cheer it up with a snowball! \n\nDo not attempt to play snowballs with a bear",
@@ -617,6 +693,7 @@
 		"Japanese": "クマたちは雪合戦の達人ではありません。ですが彼らはこの遊びが大好きです！元気のなさそうなクマを見かけたら、雪玉で元気づけてあげましょう。 \n\n（クマと一緒に雪合戦をしようとしてはいけません）",
 		"German": "Es ist nicht bekannt, ob Bären besonders gut darin sind, Schneeball zu spielen. Aber sie lieben es zu spielen! Wenn sie einen traurig aussehenden Bären sehen, muntern Sie ihn mit einem Schneeball auf! \n\nVersuchen Sie nicht, mit einem Bären Schneeball zu spielen.",
 		"Turkish": "Ayıların kartopu oynamakta pek iyi olduğu bilinmez. Ama oynamayı seviyorlar! Üzgün görünen bir ayı gördüğünüzde onu bir kartopu ile neşelendirin! \n\nAyı ile kartopu oynamaya çalışmayın"
+		"Simplified Chinese":"熊并不擅长打雪仗，但它们就是喜欢玩！当你看到一只愁眉苦脸的熊时，用雪球逗它开心吧！\n\n不要冲着熊扔雪球"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenB": {
 		"English": "Candle Bear - Festive",
@@ -625,6 +702,7 @@
 		"Japanese": "クマのキャンドル『お祝い』",
 		"German": "Kerzenbär - Festlich",
 		"Turkish": "Ayıcık Mumu - Festival"
+		"Simplified Chinese":"蜡烛熊-节日"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_GreenB": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #02/16",
@@ -633,6 +711,7 @@
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #02/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #02/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #02/16"
+		"Simplified Chinese":"Waltz食物包蜡烛雕像收藏品 #02/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_GreenB": {
 		"English": "Bears love to celebrate New Year. But they do it their own way. Try sneaking into bear den at New Year's eve with a colorful light - maybe you will be just in time for the celebration. \n\nDo not attempt to celebrate New Year with a bear",
@@ -641,6 +720,7 @@
 		"Japanese": "クマたちは新年を祝うのが大好きです。ですが彼らのお祝いは自己流です。大みそかに色とりどりの明かりで飾られたクマたちの住処に忍び込んでみましょう。もしかしたらお祝いに間に合うかもしれません。 \n\n（クマと一緒に新年を祝おうとしてはいけません）",
 		"German": "Bären lieben es, Neujahr zu feiern. Aber sie machen es auf ihre eigene Art. Versuchen Sie, sich am Silvesterabend mit buntem Licht in die Bärenhöhle zu schleichen - vielleicht kommen Sie gerade rechtzeitig zur Feier. \n\n Versuchen Sie nicht, Neujahr mit einem Bären zu feiern.",
 		"Turkish": "Ayılar Yeni Yılı kutlamayı sever. Ama bunu kendi yöntemleriyle yapıyorlar. Yeni Yıl arifesinde renkli bir ışıkla ayı inine gizlice girmeyi deneyin - belki kutlama için tam zamanında gelirsiniz. \n\nYeni Yılı ayıyla kutlamaya kalkmayın"
+		"Simplified Chinese":"熊喜欢过新年。但它们有自己的庆祝方式。试着在除夕夜带着彩灯溜进熊窝--也许你正好能赶上了庆祝派对\n\n不要和熊一起过年"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenC": {
 		"English": "Candle Bear - Delicacy",
@@ -649,6 +729,7 @@
 		"Japanese": "クマのキャンドル『ご馳走』",
 		"German": "Kerzenbär - Delikatesse",
 		"Turkish": "Ayıcık Mumu - Nezaket"
+		"Simplified Chinese":"蜡烛熊-美食"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_GreenC": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #03/16",
@@ -657,6 +738,7 @@
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #03/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #03/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #03/16"
+		"Simplified Chinese":"Waltz食物包蜡烛雕像收藏品 #03/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_GreenC": {
 		"English": "It is known, that the Greatest treat for a bear is honey. Mmm, nuts in honey - what a delight. What treats do you have for a bear? \n\nDo not attempt to have a meal with a bear",
@@ -665,6 +747,7 @@
 		"Japanese": "ご存じの通り、クマたちにとってはちみつは最高のご馳走です。ふむ、ではナッツ入りのはちみつは……もう大喜び。あなたはクマたち向けにどんなお菓子を持ってますか？\n\n（クマと一緒に食事をしようとしてはいけません）",
 		"German": "Es ist bekannt, dass der größte Leckerbissen für einen Bären Honig ist. Mmm, Nüsse in Honig - was für ein Genuss. Welche Leckereien hast du für einen Bären? \n\nVersuchen Sie nicht, mit einem Bären zu essen.",
 		"Turkish": "Ayı için en büyük ikramın bal olduğu bilinir. Mmm, ballı fındık - ne güzel. Bir ayı için ne tür ikramlarınız var? \n\nAyıyla yemek yemeye kalkışmayın"
+		"Simplified Chinese":"对熊来说最棒的美食是蜂蜜。嗯，蜂蜜坚果? Yami...你能给熊吃些什么?\n\n不要和熊一起吃饭"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenD": {
 		"English": "Candle Bear - Dancer",
@@ -673,6 +756,7 @@
 		"Japanese": "クマのキャンドル『踊り手』",
 		"German": "Kerzenbär - Tänzer",
 		"Turkish": "Ayıcık Mumu - Dansçı"
+		"Simplified Chinese":"蜡烛熊-舞蹈家"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_GreenD": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #04/16",
@@ -681,6 +765,7 @@
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #04/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #04/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #04/16"
+		"Simplified Chinese":"Waltz食物包蜡烛雕像收藏品 #04/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_GreenD": {
 		"English": "It may seem that the bear is dancing. But what actually happens is the sweater is too itchy and the bear can't reach to scratch it. If only someone could help out... \n\nDo not attempt to scratch bear's back. Even when it clearly asks for it",
@@ -689,6 +774,7 @@
 		"Japanese": "このクマは踊っているように見えるかもしれません。ですが本当はセーターのせいで体が痒いのに、そこを掻こうとしても手が届かないのです。もし誰かが助けてあげたならば……。 \n\n（クマの背中を掻いてはいけません。たとえそうしてくれとはっきり頼まれてもです）",
 		"German": "Es scheint, als würde der Bär tanzen. Tatsächlich aber juckt der Pullover zu stark und der Bär ist nicht in der Lage, sich zu kratzen. Wenn ihm nur jemand helfen würde... \n\n Versuchen Sie nicht, dem Bären den Rücken zu kratzen. Auch wenn eindeutig danach gefragt wird.",
 		"Turkish": "Ayı dans ediyor gibi görünebilir. Ama gerçekte olan şey, süveterin çok kaşınmasıdır ve ayı kaşımak için uzanamaz. Keşke biri yardım edebilse... \n\nAyının sırtını kaşımaya çalışmayın. Açıkça bunu istediğinde bile"
+		"Simplified Chinese":"这只熊看起来像是在跳舞。但实际情况是毛衣太痒了，它无法伸爪去抓。你能帮帮忙吗？\n\n不要给熊抓背"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_BlueA": {
 		"English": "Candle Bear - Fishing",
@@ -697,6 +783,7 @@
 		"Japanese": "クマのキャンドル『魚釣り』",
 		"German": "Kerzenbär - Angler",
 		"Turkish": "Ayıcık Mumu - Balıkçı"
+		"Simplified Chinese":"蜡烛熊-钓鱼"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_BlueA": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #05/16",
@@ -705,6 +792,7 @@
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #05/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #05/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #05/16"
+		"Simplified Chinese":"Waltz食物包蜡烛雕像收藏品 #05/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_BlueA": {
 		"English": "This bear tried fishing like humans. The catch doesn't seem to impress. Maybe it should try a different bait?\n\nDo not attempt to give a bear advices on fishing",
@@ -713,6 +801,7 @@
 		"Japanese": "このクマは人間たちのように魚釣りをしようとしています。ですが釣果は大したものではないようです。違う餌を試してみてはどうでしょうか？\n\n（クマに魚釣りのアドバイスをしてはいけません）",
 		"German": "Dieser Bär versucht wie Menschen zu fischen. Der Fang scheint ihn nicht zu beeindrucken. Vielleicht sollte er einen anderen Köder ausprobieren?\n\nVersuchen Sie nicht, einem Bären Ratschläge zum Angeln zu geben.",
 		"Turkish": "Bu ayı, insanlar gibi balık tutmayı denedi. Yakalama etkileyici görünmüyor. Belki de farklı bir yem denemelidir?\n\nBir ayıya balık tutma konusunda tavsiyeler vermeye kalkmayın."
+		"Simplified Chinese":"这只熊试着像人类一样钓鱼。但这个陷阱似乎不怎么样。也许它应该换一种鱼饵?\n\n 不要为熊提供钓鱼技巧"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_BlueB": {
 		"English": "Candle Bear - Struggle",
@@ -721,6 +810,7 @@
 		"Japanese": "クマのキャンドル『取っ組み合い』",
 		"German": "Kerzenbär - Kampf",
 		"Turkish": "Ayıcık Mumu - Çabalamak"
+		"Simplified Chinese":"蜡烛熊-搏斗"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_BlueB": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #06/16",
@@ -729,6 +819,7 @@
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #06/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #06/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #06/16"
+		"Simplified Chinese":"Waltz食物包蜡烛雕像收藏品 #06/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_BlueB": {
 		"English": "Most believe that bear struggle can't be won. This bear seem to disagree with that statement. \n\nDo not attempt to approach a sturggling bear",
@@ -737,6 +828,7 @@
 		"Japanese": "多くの人はクマに取っ組み合いで勝つのは不可能だと信じています。このクマはどうやらその主張には一致してないようです。\n\n（取っ組み合ってるクマに近づいてはいけません）",
 		"German": "Die meisten glauben, dass der Bärenkampf nicht gewonnen werden kann. Dieser Bär scheint der Aussage nicht zuzustimmen. \n\nVersuchen Sie nicht, sich einem zappelnden Bären zu nähern.",
 		"Turkish": "Çoğu, ayı mücadelesinin kazanılamayacağına inanıyor. Bu ayı bu ifadeye katılmıyor gibi görünüyor. \n\nMücadele eden bir ayıya yaklaşmaya çalışmayın"
+		"Simplified Chinese":"大多数人认为与熊搏斗毫无胜算，这只熊似乎不同意这种说法\n\n不要接近一只挣扎中的熊"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_BlueC": {
 		"English": "Candle Bear - Friends",
@@ -745,6 +837,7 @@
 		"Japanese": "クマのキャンドル『友達』",
 		"German": "Kerzenbär - Freunde",
 		"Turkish": "Ayıcık Mumu - Arkadaşlar"
+		"Simplified Chinese":"蜡烛熊-老友"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_BlueC": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #07/16",
@@ -753,6 +846,7 @@
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #07/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #07/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #08/16"
+		"Simplified Chinese":"Waltz食物包蜡烛雕像收藏品 #07/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_BlueC": {
 		"English": "The Greatest food for bear is honey. The Greatest complement to honey is tea. The Greatest way to enjoy tea is with a friend. \n\nDo not attempt to befriend a bear for a free cup of tea",
@@ -761,6 +855,7 @@
 		"Japanese": "クマにとってはちみつは一番のごちそうです。はちみつに一番合う飲み物はお茶です。お茶を楽しむ一番の方法は友達と一緒に飲むことです。\n\n（お茶の飲み放題のためにクマと友達になってはいけません）",
 		"German": "Das beste Futter für Bären ist Honig. Die beste Ergänzung zu Honig ist Tee. Die schönste Art, Tee zu genießen, ist mit einem Freund. \n\nVersuchen Sie nicht, sich für eine kostenlose Tasse Tee mit einem Bären anzufreunden.",
 		"Turkish": "Ayı için en büyük yiyecek baldır. Balın en büyük tamamlayıcısı çaydır. Çayın tadını çıkarmanın en harika yolu bir arkadaşla birliktedir. \n\nBedava bir fincan çay için bir ayıyla arkadaş olmaya çalışmayın"
+		"Simplified Chinese":"熊最喜欢的食物是蜂蜜，蜂蜜最佳的餐饮是茶，而最佳的消遣方式就是和朋友一起饮茶\n\n不要为了一杯免费的茶与熊结交"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_BlueD": {
 		"English": "Candle Bear - Cards",
@@ -769,6 +864,7 @@
 		"Japanese": "クマのキャンドル『カード』",
 		"German": "Kerzenbär - Karten",
 		"Turkish": "Ayıcık Mumu - Kartlar"
+		"Simplified Chinese":"蜡烛熊-打牌"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_BlueD": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #08/16",
@@ -777,6 +873,7 @@
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #08/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #08/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #09/16"
+		"Simplified Chinese":"Waltz食物包蜡烛雕像收藏品 #08/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_BlueD": {
 		"English": "There is no gambling addiction among bears. They just love the sound the cards make. What was the bear playing? Poker? \n\nDo not attempt to search for cards near bear dens",
@@ -785,6 +882,7 @@
 		"Japanese": "クマたちの間にはギャンブル依存症はありません。彼らはカードが出す音が大好きなのです。このクマは何をプレイしているのでしょうか？ポーカー？ \n\n（クマの巣穴の近くでカードを探してはいけません）",
 		"German": "Bei Bären gibt es keine Spielsucht. Sie lieben einfach den Klang, den Karten machen. Was spielte der Bär? Poker? \n\nVersuchen Sie nciht, in der Nähe von Bärenhöhlen nach Karten zu suchen.",
 		"Turkish": "Ayılar arasında kumar bağımlılığı yoktur. Sadece kartların çıkardığı sesi seviyorlar. Ayı ne oynuyordu? Poker? \n\nAyı yuvalarının yakınında kart aramaya çalışmayın"
+		"Simplified Chinese":"熊在玩什么？扑克？然而他们不会嗜赌成瘾而只享受打牌时发出的声响\n\n不要在熊窝附近寻找纸牌"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleA": {
 		"English": "Candle Bear - Snow-survivor",
@@ -793,6 +891,7 @@
 		"Japanese": "クマのキャンドル『雪のサバイバー』",
 		"German": "Kerzenbär - Schneeüberlebender",
 		"Turkish": "Ayıcık Mumu - Kardan kurtulan"
+		"Simplified Chinese":"蜡烛熊-堆雪人"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_PurpleA": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #09/16",
@@ -801,6 +900,7 @@
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #09/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #09/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #09/16"
+		"Simplified Chinese":"Waltz食物包蜡烛雕像收藏品 #09/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_PurpleA": {
 		"English": "Bears have a lot of free time. And what else would they do with all those survivor clothes? \n\nDo not attempt to steal clothes from snowmen",
@@ -809,6 +909,7 @@
 		"Japanese": "クマたちには有り余るほどの時間があります。そして、そのサバイバーの衣服の使い道は他になかったのでしょうか？ \n\n（雪だるまから服を盗んではいけません）",
 		"German": "Bären haben viel Freizeit. Und was würden sie sonst mit dieser Überlebenskleidung machen? \n\nVersuchen Sie nicht, Schneemännern Kleidung zu stehlen.",
 		"Turkish": "Ayıların çok fazla boş zamanı vardır. Ve tüm bu kurtulan kıyafetleriyle başka ne yapacaklardı? \n\nve kardan adamdan kıyafet çalmaya çalışmayın"
+		"Simplified Chinese":"熊通常很闲。它们拿幸存者的衣物在做什么?\n\n不要从雪人那里偷衣服"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleB": {
 		"English": "Candle Bear - Education",
@@ -817,6 +918,7 @@
 		"Japanese": "クマのキャンドル『お勉強』",
 		"German": "Kerzenbär - Ausbildung",
 		"Turkish": "Ayıcık Mumu - Eğitim"
+		"Simplified Chinese":"蜡烛熊-学者"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_PurpleB": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #10/16",
@@ -825,6 +927,7 @@
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #10/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #10/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #10/16"
+		"Simplified Chinese":"Waltz食物包蜡烛雕像收藏品 #10/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_PurpleB": {
 		"English": "Bears have an amazing eyesight. This one just wants to look smart. Next time you see a still bear - ask what is it reading. \n\nDo not make loud noises behind bears, they might actually be reading",
@@ -833,6 +936,7 @@
 		"Japanese": "クマたちは驚くべき視力の持ち主です。このクマは今おしゃれをしようとしています。この次あなたがじっとしているクマを見たときは……何を読んでいるのか尋ねてみましょう。 \n\n（読書をしているかもしれないクマの背後で大きな音を立ててはいけません）",
 		"German": "Bären haben erstaunliches Sehvermögen. Dieser will einfach nur schick aussehen. Wenn Sie das nächste Mal einen ruhigen Bären sehen, fragen Sie ihn, was er liest. \n\nMachen Sie keine lauten Geräusche hinter Bären, sie könnten tatsächlich lesen.",
 		"Turkish": "Ayılar inanılmaz bir görüşe sahiptir. Bu sadece akıllı görünmek istiyor. Bir daha hareketsiz bir ayı gördüğünüzde ne okuduğunu sorun. \n\nAyıların arkasında yüksek sesler çıkarmayın, gerçekten okuyor olabilirler"
+		"Simplified Chinese":"熊的视力惊人(俗称黑瞎子)，但这只看起来很聪明的样子。下次你看到一只不动的熊时问问它在读什么\n\n不要在熊的后面大声喧哗，它们可能真的在看书"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleC": {
 		"English": "Candle Bear - Haul",
@@ -841,6 +945,7 @@
 		"Japanese": "クマのキャンドル『雄たけび』",
 		"German": "Kerzenbär - Schleppen",
 		"Turkish": "Ayıcık Mumu - Hambal"
+		"Simplified Chinese":"蜡烛熊-搬运"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_PurpleC": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #11/16",
@@ -849,6 +954,7 @@
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #11/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #11/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #11/16"
+		"Simplified Chinese":"Waltz食物包蜡烛雕像收藏品 #11/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_PurpleC": {
 		"English": "This bear tried to carry everything in one go. Classic situation. \n\nDo not attempt to relate to bear problems",
@@ -857,6 +963,7 @@
 		"Japanese": "このクマは何もかもを一まとめにして運ぼうとしています。よくある光景です。 \n\n（クマの問題に共感してはいけません）",
 		"German": "Dieser Bär versuchte alles auf einmal zu tragen. Klassische Situation. \n\nVersuchen Sie nicht, sich auf Bärenprobleme einzulassen.",
 		"Turkish": "Bu ayı her şeyi tek seferde taşımaya çalıştı. Klasik durum. \n\nAyı sorunlarıyla ilişkilendirmeye çalışmayın"
+		"Simplified Chinese":"这只熊试图一次把所有东西都带走。经典案例\n\n别逞强，你跟熊不一样"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleD": {
 		"English": "Candle Bear - Present",
@@ -865,6 +972,7 @@
 		"Japanese": "クマのキャンドル『贈り物』",
 		"German": "Kerzenbär - Geschenk",
 		"Turkish": "Ayıcık Mumu - Hediye"
+		"Simplified Chinese":"蜡烛熊-礼物盒"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_PurpleD": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #12/16",
@@ -873,6 +981,7 @@
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #12/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #12/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #12/16"
+		"Simplified Chinese":"Waltz食物包蜡烛雕像收藏品 #12/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_PurpleD": {
 		"English": "Bears enjoy a present as much as humans. But sometimes they mix something up. Make sure a bear doesn't see you placing your present - this might spoil the surprise. \n\nDo not attempt to become a present for a bear",
@@ -881,6 +990,7 @@
 		"Japanese": "クマたちは人間たちと同じくらい贈り物をします。ですが彼らは時々混乱することがあります。プレゼントを置いているところをクマに見られないよう気をつけてください……サプライズを台無しにしないためにも。 \n\n（クマにとっての贈り物になってはいけません）",
 		"German": "Bären freuen sich genauso über Geschenke, wie Menschen. Aber manchmal verwechseln sie etwas. Achten Sie darauf, dass kein Bär Sie dabei beobachtet, wie Sie Ihr Geschenk ablegen - das könnte die Überraschung verderben. \n\nVersuschen Sie nicht, ein Geschenk für einen Bären zu werden.",
 		"Turkish": "Ayılar, insanlar kadar bir hediyeden hoşlanırlar. Ama bazen bir şeyleri karıştırıyorlar. Bir ayının hediyenizi verdiğinizi görmediğinden emin olun - bu, sürprizi bozabilir. \n\nBir ayıya hediye olmaya çalışmayın"
+		"Simplified Chinese":"熊和人一样喜欢礼物。但有时它们会把东西搞混。请确保熊没有看到你在放置礼物--否则会破坏惊喜\n\n不要成为熊的礼物"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_RedA": {
 		"English": "Candle Bear - Joke",
@@ -889,6 +999,7 @@
 		"Japanese": "クマのキャンドル『冗談』",
 		"German": "Kerzenbär - Witz",
 		"Turkish": "Ayıcık Mumu - Şaka"
+		"Simplified Chinese":"蜡烛熊-恶作剧"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_RedA": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #13/16",
@@ -897,6 +1008,7 @@
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #13/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #13/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #13/16"
+		"Simplified Chinese":"Waltz食物包蜡烛雕像收藏品 #13/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_RedA": {
 		"English": "There is this Russian joke: 'A bear once walked through the forest and saw a burning car. Sat in it and burned dead'. Get it? \n\nDo not attempt to understand the joke",
@@ -905,6 +1017,7 @@
 		"Japanese": "ロシアの冗談に『森を歩いている最中に燃えている車を見たクマが、車に乗って焼け死んだ』というものがあります。分かりますか？ \n\n（この冗談を理解してはいけません）",
 		"German": "Es gibt diesen russischen Witz: 'Einst ging ein Bär durch den Wald und sah ein brennendes Auto. Saß drin und verbrannte.' Kapiert? \n\nVersuchen Sie nicht, diesen Witz zu verstehen.",
 		"Turkish": "Bir Rus fıkrası vardır: Bir keresinde bir ayı ormandan geçmiş ve yanan bir araba görmüş. İçine oturdu ve yanarak öldü'. Anla? \n\nŞakayı anlamaya çalışmayın"
+		"Simplified Chinese":"俄罗斯有这样的笑话:一只熊穿过森林，看到一辆燃烧的汽车，坐在里面烧死了。能听懂吗？\n\n不懂也罢"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_RedB": {
 		"English": "Candle Bear - Hellbender",
@@ -913,6 +1026,7 @@
 		"Japanese": "クマのキャンドル『大酒飲み』",
 		"German": "Kerzenbär - Schlammteufel",
 		"Turkish": "Ayıcık Mumu - Cehennem bükücü"
+		"Simplified Chinese":"蜡烛熊-闹事者"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_RedB": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #14/16",
@@ -921,6 +1035,7 @@
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #14/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #14/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #14/16"
+		"Simplified Chinese":"Waltz食物包蜡烛雕像收藏品 #14/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_RedB": {
 		"English": "This bear is pretending to be in his favorite not-so-normal show. Can you hear the singing? This is not a microphone, bear. \n\nDo not attempt to sing carols with a bear",
@@ -929,6 +1044,7 @@
 		"Japanese": "このクマはお気に入りの番組に出ているつもりです。歌声が聞こえませんか？でもそれはマイクじゃないんですよ、クマ君。 \n\n（クマと一緒にキャロルを歌ってはいけません）",
 		"German": "Dieser Bär tut so, als wäre er in seiner 'nicht ganz normalen' Lieblingssendung dabei. Kannst du den Gesang hören? Das ist kein Mikrofon, Bär. \n\nVersuchen Sie nicht, mit einem Bären Weihnachtslieder zu singen.",
 		"Turkish": "Bu ayı, pek de normal olmayan favori şovundaymış gibi davranıyor. Şarkıyı duyabiliyor musun? Bu bir mikrofon değil, ayı. \n\nBir ayıyla ilahiler söylemeye kalkışmayın"
+		"Simplified Chinese":"这只熊正在假装参加它最喜欢的不寻常节目。你能听到歌声吗？这是麦克风吗？Mr熊\n\n不要和熊一起唱颂歌"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_RedC": {
 		"English": "Candle Bear - Dragon",
@@ -937,6 +1053,7 @@
 		"Japanese": "クマのキャンドル『竜』",
 		"German": "Kerzenbär - Drache",
 		"Turkish": "Ayıcık Mumu - Ejderha"
+		"Simplified Chinese":"蜡烛熊-龙裔"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_RedC": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #15/16",
@@ -945,6 +1062,7 @@
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #15/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #15/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #15/16"
+		"Simplified Chinese":"Waltz食物包蜡烛雕像收藏品 #15/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_RedC": {
 		"English": "Some bears wish to collect the most food for the winter. Some wish to have the biggest den. Some wish they were born by a dragon. \n\nHere be no dragons",
@@ -953,6 +1071,7 @@
 		"Japanese": "冬ごもりのために大量の食糧を貯めこもうとするクマがいます。巨大な巣穴を持ちたがるクマもいます。ドラゴンになりたがるクマもいるかもしれません。 \n\n（ドラゴンなんていません）",
 		"German": "Manche Bären möchten möglichst viel Futter für den Winter sammeln. Manche wünschen sich die größte Höhle. Manche wünschen sich, von einem Drachen geboren zu werden.\n\nHier gibt es keine Drachen.",
 		"Turkish": "Bazı ayılar kış için en fazla yiyeceği toplamak ister. Bazıları en büyük yuvaya sahip olmak ister. Bazıları bir ejderha tarafından doğmak ister. \n\nBurada ejderhalar olmasın"
+		"Simplified Chinese":"有些熊喜欢收集最多的过冬食物，有的希望拥有最大的洞穴。而有的熊希望它是龙的后裔\n\n这里没有龙"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_RedD": {
 		"English": "Candle Bear - Moon",
@@ -961,6 +1080,7 @@
 		"Japanese": "クマのキャンドル『月』",
 		"German": "Kerzenbär - Mond",
 		"Turkish": "Ayıcık Mumu - Ay"
+		"Simplified Chinese":"蜡烛熊-奔月"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_RedD": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #16/16",
@@ -969,6 +1089,7 @@
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #16/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #16/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #16/16"
+		"Simplified Chinese":"Waltz食物包蜡烛雕像收藏品 #16/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_RedD": {
 		"English": "What happened to that bear? Aurora? Moonshine?  \n\nDo not attempt to fly a bicycle",
@@ -977,6 +1098,7 @@
 		"Japanese": "このクマに何が起こったのでしょうか？オーロラのしわざ？それとも月の光のせい？ \n\n（自転車で空を飛んではいけません）",
 		"German": "Was ist mit diesem Bären passiert? Aurora? Mondschein? \n\nVersuchen Sie nicht, ein Fahrrad zu fliegen.",
 		"Turkish": "O ayıya ne oldu? Aurora mı? kaçak içki? \n\nBisikleti uçurmaya çalışmayın"
+		"Simplified Chinese":"那只熊怎么了?极光吗?月光?\n\n不要让自行车飞起来"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL": {
 		"English": "A note from a lost soul",
@@ -985,6 +1107,7 @@
 		"Japanese": "失われた魂からのメッセージ",
 		"German": "Eine Nachricht von einer verlorenen Seele",
 		"Turkish": "Kayıp ruhtan bir not"
+		"Simplified Chinese":"迷失的灵魂笔记"
 	},
 	"GAMEPLAY_LOSTNOTE_DESC": {
 		"English": "A lore piece from 'Calorie Waltz' Foods employee",
@@ -993,6 +1116,7 @@
 		"Japanese": "『Calorie Waltz』食品の社員が残したメッセージ",
 		"German": "Ein Stück aus der Überlieferung eines 'Calorie Waltz'Foods - Angestellten",
 		"Turkish": "'Calorie Waltz' Foods çalışanından bir parşömen"
+		"Simplified Chinese":"Waltz食品公司员工的传说"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_1": {
 		"English": "Note from a lost soul #1",
@@ -1001,6 +1125,7 @@
 		"Japanese": "失われた魂からのメッセージ #1",
 		"German": "Nachricht einer verlorenen Seele #1",
 		"Turkish": "Kayıp ruhtan bir not #1"
+		"Simplified Chinese":"迷失的灵魂笔记#1"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_1": {
 		"English": "If you reading this... I'm lost. \n\n500 days I was wandering around the island, hoping to find another living soul. Everybody is dead. What about me then? Well... I'll make the last trip around the island and leave provisions. If another wretched soul gets stranded on this damned island - at least you won't die from starvation. If you ''lucky'' - you'll find me at the lighthouse(the still-standing one), I'll end my journey there.",
@@ -1009,6 +1134,7 @@
 		"Japanese": "もし君がこれを読んでいるのなら……私は死んだということだ。 \n\n500日間、私は他の生存者を見つけようと島をさまよっていた。だが皆死に絶えていた。ではどうする？ふむ……最後に島を一巡りして食糧を残すか。もし他の哀れな者がこの呪われた島に流れ着いたなら……最低でも飢え死にだけはしないだろう。もし君が『幸運にも』私を灯台（いまだ健在な唯一のもの）で見つけたなら、私の旅はそこで終わる。",
 		"German": "Wenn Sie das lesen... bin ich verloren. \n\n500 Tage lang wanderte iich auf der Insel umher, in der Hoffnung, eine weitere lebende Seele zu finden. Alle sind tot. Was ist dann mit mir? Nun... Ich werde die letzte Reise um die Insel antreten und Proviant zurücklassen. Wenn noch eine elende Seele auf dieser verdammten Insel strandet, wird sie wenigstens nicht verhungern. Wenn du Glück hast, findest du mich am Leuchtturm (dem, der noch steht), dort beende ich meine Reise.",
 		"Turkish": "Eğer bunu okuyorsan... Kayboldum. \n\n500 gün başka bir yaşayan ruh bulmayı umarak adanın etrafında dolaştım. Herkes öldü. Peki ya ben? Pekala... Adanın etrafındaki son yolculuğu yapacağım ve erzak bırakacağım. Bu lanet adada başka bir sefil ruh mahsur kalırsa - en azından açlıktan ölmezsin. Eğer ''şanslı''ysanız - beni deniz fenerinde (hala ayakta olarak) bulursanız, yolculuğumu orada bitireceğim."
+		"Simplified Chinese":"如果你在阅读这篇文章，说明我已经死了\n\n我在这个荒岛上流浪了500天，本想在岛上能找到其他幸存者。但所有人都已经死了。最后我绕着荒岛走一圈，留下食物和水供其他可能被困在这个该死的荒岛上的可怜人使用。如果你“幸运”的话，你会在灯塔那儿找到我，我会在那里结束我的旅程。"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_2": {
 		"English": "Note from a lost soul #2",
@@ -1017,6 +1143,7 @@
 		"Japanese": "失われた魂からのメッセージ #2",
 		"German": "Nachricht einer verlorenen Seele #2",
 		"Turkish": "Kayıp ruhtan bir not #2"
+		"Simplified Chinese":"迷失的灵魂笔记#2"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_2": {
 		"English": "Hell, that was morbid. That note I left there, in the valley? Well, I won't go pick it up now so I'll just hope you didn't see it lad. Or lass? I wonder who you are, my lovely reader\n\nAnyway, I overestimated how many supplies I have, so I'll be more modest with leaving them behind from now on. Fortunately, 'Calorie Waltz' is already very much spread across this island, so you, my precious reader, won't die from hunger",
@@ -1024,6 +1151,7 @@
 		"Japanese": "地獄、それは恐ろしいものだ。私はそこ、谷間？にメモを残してきた。まあ、今となってはそれを拾いに戻ることはないから、君がメモを目にすることがないよう願うだけだ、若者よ。それとも娘さんか？素敵な読者さん、あなたは何者なのだろうな。\n\nとにかく、私は手持ちの物資の量を多く見積もり過ぎてたようだ、これからは残す物資の量を控えめにしよう。幸いにも『Calorie Waltz』の食品はすでにこの島に大量にばら撒かれているから、君が、私の大切な読者である君が飢え死ぬことはないだろう。",
 		"German": "Verdammt, das war krank. Diese Notiz, die ich im Tal hinterlassen habe? Nun, ich werde es jetzt nicht abholen, also hoffe ich, dass du es nicht gesehen hast, Junge. Oder Mädchen? Ich frage mich, wer du bist, mein lieber Leser.\n\nJedenfalls habe ich überschätzt, wie viele Vorräte ich habe, also werde ich von nun an bescheidener sein und sie zurücklassen. Glücklicherweise ist 'Calorie Waltz' auf dieser Insel bereits weit verbreitet, sodass Sie, mein werter Lesser, nicht vor Hunger sterben werden.",
 		"Turkish": "Kahretsin, bu hastalıklıydı. Orada, vadide bıraktığım notu mu? Pekala, şimdi gidip almayacağım, umarım görmemişsindir delikanlı. Ya da bayan? Acaba kimsin sevgili okuyucum\n\nHer neyse, elimdeki erzakları fazla tahmin ettim, o yüzden bundan sonra onları geride bırakırken daha mütevazi olacağım. Neyse ki, 'Calorie Waltz' bu adaya şimdiden çok yayıldı, bu yüzden siz değerli okuyucum açlıktan ölmeyeceksiniz."
+		"Simplified Chinese":"见鬼，太吓人了。我留在山谷里的纸条不会在回去拿了，所以我只能希望你没有看到它。小伙子，额..或者是姑娘？我很想知道你是谁，我亲爱的读者朋友\n\n不管怎么说，我还是高估了我的物资，所以现在我会节约下更多的物资。幸运的是，我已经把大部分Waltz食品都分散到了这个岛上，因此你，我亲爱的读者朋友，你不会被饿死"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_3": {
 		"English": "Note from a lost soul #3 part 1",
@@ -1032,6 +1160,7 @@
 		"Japanese": "失われた魂からのメッセージ #3-1",
 		"German": "Nachricht einer verlorenen Seele #3 - Teil 1",
 		"Turkish": "Kayıp ruhtan bir not #3 bölüm 1"
+		"Simplified Chinese":"迷失的灵魂笔记#3 第一部分"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_3": {
 		"English": "Day 518\n\nLovely weather today. Rare occasion. About -10 degrees I'd wager, light snowfall. Quiet\n\nI have something to tell you, I can't get it out of my head. Can't get you out of my head. Or the idea of 'you'? Of someone who I can talk to. Talking to myself doesn't feel strange anymore, but writing those messages... makes me feel human again?\n\n...I'll call you Ro, do you mind?",
@@ -1039,6 +1168,7 @@
 		"Japanese": "518日目\n\n今日は素敵な天気だ。滅多にないことだ。気温はおよそマイナス10度というところで、小雪が舞っている。とても静かだ。\n\n君に伝えたいことが頭から離れない。あるいは、『君』のこと、私が話せる相手である君のことも？独り言を言うのがおかしなことだとはもう思わないが、こうしたメッセージを書いていると……人間らしさを取り戻せた気分になる？ \n\n……君のことをローと呼んでも構わないかな？",
 		"German": "Tag 518\n\nSchönes Wetter heute. Seltene Gelegenheit. Etwa -10 Grad würde ich wetten, leichter Schneefall. Ruhig.\n\nIch muss dir etwas sagen, es geht mir nicht mehr aus dem Kopf. Du gehst mir nicht mehr aus dem Kopf. Oder die Idee von 'Dir'? Von jemandem, mit dem ich reden kann. Mit mir selbst zu reden, fühlt sich nicht mehr seltsam an, aber wenn ich diese Nachrichten schreibe... fühle ich mich wieder menschlich?\n\n...Ich nenne dich Ro, hast du was dagegen?",
 		"Turkish": "518. Gün\n\nBugün hava çok güzel. Nadir fırsat. -10 dereceye bahse girerim, hafif kar yağışı. Sessiz\n\nSana söylemem gereken bir şey var, aklımdan çıkaramıyorum. Seni aklımdan çıkaramıyorum. Yoksa 'sen' fikri mi? Konuşabileceğim birinin. Kendi kendime konuşmak artık garip gelmiyor ama o mesajları yazmak... beni tekrar insan hissettiriyor?\n\n...Sana Ro diyeceğim, sakıncası var mı?"
+		"Simplified Chinese":"第518天\n\n今天天气真好，难得的好天气。我敢打赌，温度应该在零下十度左右，下着小雪。很安静\n\我有话要和你说，但我无法表达。无法忘记你，或许是你给我的启示？我想找一个可以交流的人。自言自语不再感觉奇怪，但写下这些笔记……让我感觉又重新变得有人情味了？……我叫你罗，不介意吧？"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_3-2": {
 		"English": "Note from a lost soul #3 part 2",
@@ -1047,6 +1177,7 @@
 		"Japanese": "失われた魂からのメッセージ #3-2",
 		"German": "Nachricht einer verlorenen Seele #3 - Teil 2",
 		"Turkish": "Kayıp ruhtan bir not #3 bölüm 2"
+		"Simplified Chinese":"迷失的灵魂笔记#3 第二部分"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_3-2": {
 		"English": "Evening 518\n\nI'm Victor by the way. Dowd. I'm working for 'CW', hauling goods to remote islands on my little launch. Was working, that is. I wonder if mainland even exists at this point\n\nDid no one even tried to rescue people here? Does nobody care about this island anymore to the point they didn't even notice it's death?\n\nWell, I figured if no one came for locals, I shouldn't wait for help either",
@@ -1054,6 +1185,7 @@
 		"Japanese": "518日目、夕方 \n\nちなみに私の名はヴィクター・ダウドだ。『CW』で働いていて、離島に小舟で商品を運んでいる。いや、働いていた、だな。私はカナダ本土が未だ健在であるのか疑問に思っている。 \n\n誰もここの住民たちを助けようとしなかったのか？この島の死に気づかないほど、誰もこの島に興味を持たなくなったのだろうか？ \n\nああ、もし誰も助けに来てくれないのなら、私も助けを待っていてはいけないのだろうな。",
 		"German": "Abend 518\n\nIch bin übrigens Victor. Dowd. Ich arbeite für 'CW', transportiere mit einer kleinen Barkasse Waren zu abgelegenen Inseln. Habe gearbeitet, das ist richtig. Ich frage mich, ob es zu diesem Zeitpunkt überhaupt ein Festland gibt.\n\nHat hier noch niemand versucht, Menschen zu retten? Kümmert sich niemand mehr um diese Insel, bis zu dem Punkt, dass man nicht mal ihren Tod bemerkt hat?\n\nNun, ich dachte mir, wenn niemand für die Einheimischen kommt, sollte auch ich nicht auf Hilfe warten.",
 		"Turkish": "Akşam 518\n\nBu arada ben Victor. Dowd. 'CW' için çalışıyorum, küçük teknemde uzak adalara mal taşıyorum. Çalışıyordu, yani. Acaba bu noktada anakara var mı?\n\nBurada kimse insanları kurtarmaya çalışmadı mı? Artık kimse bu adayı, öldüğünü fark etmeyecek kadar umursamıyor mu?\n\nPekala, eğer kimse yerliler için gelmiyorsa ben de yardım beklememeliyim diye düşündüm."
+		"Simplified Chinese":"第518天夜晚\n\n顺便介绍一下，我叫维克多·道德，驾驶着小型船只为Waltz食品公司运送货物到偏远的岛屿。已经工作了许久，不知道大陆现在是否还存在。\n\n岛上的人已经没有救援了吗？是不是被遗忘了，以至于没有人注意到这个岛已经成了荒岛了？\n\n好吧，既然没人愿意施以援手，那我也没必要在这浪费时间了。"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_4": {
 		"English": "Note from a lost soul #4",
@@ -1062,6 +1194,7 @@
 		"Japanese": "失われた魂からのメッセージ #4",
 		"German": "Nachricht einer verlorenen Seele #4",
 		"Turkish": "Kayıp ruhtan bir not #4"
+		"Simplified Chinese":"迷失的灵魂笔记#4"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_4": {
 		"English": "Day 522\n\nThere were 3 of us: me, Rory and Jiji. Rory was my cargo officer. Jiji was a.. cat\n\nBefore any electronics showed any sign of something being amiss, Jiji knew. And she made sure we knew too. We knew, but had no idea at the same time. The Aurora. When you experience something like that for the first time, your whole undestanding of the world crumbles. Being a sailor for 40 years, I had no clue what to do in that chaos\n\nRory acted... normal. Just carrying out orders like usual, taking care of the equipment. I didn't give it much thought at the time, but that didn't seem quite right\n\nInevitably, we hit a glacier. Rory fell over the railing. I managed to hold on\n\nLast thing I remembered was Jiji. She was standing on top of the glacier, looking at me with glowing eyes. Like a lighthouse",
@@ -1069,6 +1202,7 @@
 		"Japanese": "522日目 \n\n私たち3人、私、ロリー、そしてジジ。ロリーは貨物担当。ジジは……猫だ。 \n\nジジは異常事態が起こっていることを電子機器が示す前に気づいていた。彼女はそれを私たちにも分かるようにしてくれたのだ。私たちは知っていた、だがどうすればいいかは分からなかった。オーロラ。君が初めてあのようなものを体験したら、世界観の全てが崩壊してしまうだろう。40年間船乗りをやってきたが、私はあの混乱の中で何をすべきなのか、まったくわからなかった。 \n\nロリーは...いつも通りだった。いつものように指示を実行し、機器の手入れをする。その時は何とも思わなかったが、どうも腑に落ちない。 \n\n必然的に氷山にぶつかった。ロリーは手すりを越えて転落。私はなんとか持ちこたえた。 \n\n最後に思い出したのはジジのことだった。彼女は氷山の天辺に立っていて、輝くような目で僕を見ていた。ちょうど灯台のように。",
 		"German": "Tag 522\n\nWir waren zu dritt: Ich, Rory und Jiji. Rory war mein Frachtoffizier. Jiji war eine... Katze.\n\nBevor die Elektronik Anzeichen dafür zeigte, dass etwas nicht stimmte, wusste Jiji es. Und sie sorgte dafür, dass wir es auch wussten. Wir wussten es, aber hatten gleichzeitig keine Ahnung. Die Aurora. Wenn du so etwas zum ersten Mal erlebst, bricht dein gesamtes Verständnis der Welt zusammen. Obwohl ich seit 40 Jahren Seemann bin, hatte ich keine Ahnuing, was ich in diesem Chaos tun sollte.\n\nRory verhielt sich... normal. Einfach wie gewohnt Befehle ausführen und sich um die Ausrüstung kümmern. Damals habe ich nicht darüber nachgedacht, aber das kam mir nicht ganz richtig vor.\n\nUnweigerlich steißen wir auf einen Gletscher. Rory fiel über das Geländer. Ich konnte mich festhalten.\n\nDas Letzte, woran ich mich erinnerte, war Jiji. Sie stand oben auf dem Gletscher und sah mich mit leuchtenden Augen an. Wie ein Leuchtturm.",
 		"Turkish": "522. Gün\n\n3 kişiydik: ben, Rory ve Jiji. Rory benim kargo memurumdu. Jiji bir.. kediydi\n\nHerhangi bir elektronik cihaz bir şeylerin ters gittiğine dair herhangi bir işaret göstermeden önce, Jiji biliyordu. Ve bizim de bildiğimizden emin oldu. Biliyorduk ama aynı zamanda hiçbir fikrimiz yoktu. Aurora. Böyle bir şeyi ilk kez deneyimlediğinizde, dünyaya dair tüm anlayışınız paramparça olur. 40 yıllık bir denizci olarak, o kaos içinde ne yapacağım hakkında hiçbir fikrim yoktu\n\nRory... normal davrandı. Her zamanki gibi emirleri yerine getirmek, ekipmanla ilgilenmek. O zaman pek düşünmedim ama bu pek doğru gelmedi\n\nKaçınılmaz olarak bir buzulla karşılaştık. Rory korkuluktan düştü. Dayanmayı başardım\n\nSon hatırladığım şey Jiji'ydi. Buzulun tepesinde durmuş, parıldayan gözlerle bana bakıyordu. Bir deniz feneri gibi"
+		"Simplified Chinese":"第522天\n\n我们有三个人：我、罗瑞和吉吉。罗瑞是我的货运员，吉吉是一只猫\n\n在电子设备在没有显示出任何异常之前，吉吉就已经察觉到了。它的反常也引起了我们的注意。但即便如此我们也不知道它到底是什么意思。极光，当你第一次经历时，对世界的整体认知都会土崩瓦解。作为一名有着40年经验的老水手，当我面对这种奇景时居然变的不知所措\n\n罗瑞表现得很坦然，像平常一样查看设备，执行指令。而我确傻傻的站在那，显得那么不合乎常理。\n\n我们不可避免的撞到了一座冰川。罗瑞失足跌落下来，而我抓住了护栏\n\n我最后记忆是吉吉站在冰川顶上，用炽亮的眼镜看着我，就像灯塔一样"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_5": {
 		"English": "Note from a lost soul #5",
@@ -1077,6 +1211,7 @@
 		"Japanese": "失われた魂からのメッセージ #5",
 		"German": "Nachricht einer verlorenen Seele #5",
 		"Turkish": "Kayıp ruhtan bir not #5"
+		"Simplified Chinese":"迷失的灵魂笔记#5"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_5": {
 		"English": "Day 530\n\nI enjoy writing those now, it gives me illusion that you can hear me. I should have done it from the beginning, keeping a journal or something\n\nYou are wondering why I'm leaving my messages in such strange places? I'm not entirely sure. Maybe I don't actually want to be heard? Not by everyone at least. The first message I wrote was just a despair cry. Later that didn't feel right, so I wanted to apologize. That's when I met you, wasn't it? Haha. I trust you. I trust you my thoughts, Ro. But let's keep this game, what do you say? I'll keep hiding them and you keep finding? Please",
@@ -1084,6 +1219,7 @@
 		"Japanese": "530日目 \n\n今の私は書き物をすることが楽しい、それは君が私の言葉を聞いているような幻を私に見せてくれる。こんなことなら最初から日記か何かを書いておけばよかった。 \n\nなぜ私がこんな奇妙な場所ばかりにメッセージを残しているのか、君は不思議に思っているのじゃないか？でも私にもわからないんだよ。おそらく、私は本当は知られたくないのかな？最低でも、誰も彼もには。私が書いた最初のメッセージはただ絶望の叫びだった。その後、あれは間違っていたと思うようになって、謝りたくなった。それが、私があなたに出会った時、なのかな？はは。私はあなたを信じます。私の想いの中のあなたを信じます、ロー。でも、この遊びは続けるよ、君は何て言うかな？私が隠し続けるなら、君は見つけ続けるのかな？お願いだよ。",
 		"German": "Tag 530\n\nEs macht mir Spaß, dieses jetzt zu schreiben. Es gibt mir die Illusion, dass du mich hören kannst. Ich hätte von Anfang an ein Tagebuch führen sollen, oder etwas in der Art.\n\nDu fragst dich, warum ich meine Nachrichten an so seltsamen Orten hinterlasse? Ich bin mir nicht ganz sicher. Vielleicht möchte ich eigentlich gar nicht gehört werden? Zumindest nicht von jedem. Die erste Nachricht, die ich schrieb, war nur ein verzweifelter Schrei. Später fühlte sich das nicht richtig an, also wollte ich mich entschuldigen. Da habe ich dich kennengelernt, nicht wahr? Haha. Ich vertraue dir. Ich vertraue dir meine Gedanken an, Ro. Aber lass uns dieses Spiel beibehalten, was sagst du dazu? Ich werde sie weiter verstecken und du findest sie weiterhin? Bitte.",
 		"Turkish": "530. Gün\n\nŞu anda bunları yazmaktan zevk alıyorum, beni duyabiliyormuşsun gibi bir yanılsama yaşıyorum. Bunu en başından yapmalıydım, günlük falan tutmalıydım\n\nMesajlarımı neden bu kadar tuhaf yerlerde bıraktığımı merak ediyorsun? Tam olarak emin değilim. Belki de gerçekten duyulmak istemiyorum? En azından herkes tarafından değil. Yazdığım ilk mesaj sadece bir çaresizlik çığlığıydı. Daha sonra bu doğru gelmedi, ben de özür dilemek istedim. Seninle o zaman tanıştım, değil mi? Haha. Sana güveniyorum. Sana düşüncelerime güveniyorum, Ro. Ama bu oyuna devam edelim, ne dersiniz? Ben saklamaya devam edeceğim ve sen bulmaya devam mı edeceksin? Lütfen"
+		"Simplified Chinese":"第530天\n\n我现在很喜欢写这些东西，它让我有一种你能听到我说话的错觉。我从一开始就应该这样，写个笔记什么的\n\n你也许想知道为什么我把笔记留在这么个鬼地方？其实我也吃不准，也许我并不想真的被人听到我的心声？至少不是每个人都能听到。我留下的每一条笔记都只是绝望的呼喊。抱歉，那种感觉很不好。接着我遇见了你，是吧？哈哈，罗瑞我相信你能理解我的用心。让我们把这个游戏继续下去，好吗？我会继续隐藏我的笔记，你继续寻找，好吗？"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_6": {
 		"English": "Note from a lost soul #6",
@@ -1092,6 +1228,7 @@
 		"Japanese": "失われた魂からのメッセージ #6",
 		"German": "Nachricht einer verlorenen Seele #6",
 		"Turkish": "Kayıp ruhtan bir not #6"
+		"Simplified Chinese":"迷失的灵魂笔记#6"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_6": {
 		"English": "I could not remember how we managed to get from the sinking launch to the shore. I tried talking to Rory about what happened that night, again and again, but never got any adequate response. As if it didn't happen for real. As if we just appeared on this island\n\nThe longer I live here, the more I start to feel that.. estrangement? I still recall who I was and how I got here, if only partially, but the past is getting hazier every day\n\nI found myself alone after a month. No word, no message, one morning Rory was just gone. Must have been snowing during the night, since I couldn't even see any tracks... ",
@@ -1099,6 +1236,7 @@
 		"Japanese": "沈む小舟からどうやって脱出して岸にたどり着いたのか思い出せない。ロリーにあの夜のことを繰り返し話してみたのだが、まともな答えが返ってくることはなかった。まるで現実の出来事ではないようだった。まるで、私たちがいきなりこの島に現れたようだった。 \n\nここで暮らすうちに、だんだん……疎外感？を感じるようになった。自分が誰で、どうやってここに来たか、部分的にまだ思い出せるけど、日に日に過去が曖昧になってる。 \n\n1ヶ月後、気が付くと私は一人になっていた。言葉も書き置きもなく、ある朝、ロリーがいなくなった。夜中に雪が降ったのだろうか、足跡すら見つけられなかった……。",
 		"German": "Ich kann mich nicht erinnern, wie wir es geschafft haben, von diesem sinkenden Ding an das Ufer zu gelangen. Ich habe immer wieder versucht, mit Rory über das, was in der Nacht passiert ist, zu sprechen, bekam aber nie eine angemessene Antwort. Als ob es nicht wirklich passiert wäre. Als ob wir gerade erst auf dieser Insel aufgetaucht wären.\n\nJe länger ich hier lebe, desto mehr sprüe ich diese... Entfremdung? Ich erinnere mich noch, wer ich war und wie ich hier her gekommen bin, wenn auch nur teilweise. Aber die Vergangenheit wird von Tag zu Tag verschwommener.\n\nIch war nach einem Monat allein. Kein Wort, keine Nachricht, eines Morgens war Rory einfach weg. In der Nacht muss es geschneit haben, da ich keine Spuren erkennen konnte...",
 		"Turkish": "Batan tekneden kıyıya nasıl ulaştığımızı hatırlayamadım. Rory ile o gece olanlar hakkında defalarca konuşmaya çalıştım ama hiçbir zaman yeterli bir yanıt alamadım. Sanki gerçek olmamış gibi. Sanki bu adaya yeni gelmişiz gibi\n\nBurada ne kadar uzun yaşarsam o kadar çok hissetmeye başlıyorum.. yabancılaşma? Kısmen de olsa kim olduğumu ve buraya nasıl geldiğimi hâlâ hatırlıyorum ama geçmiş her geçen gün daha da belirsizleşiyor\n\nBir ay sonra kendimi yalnız buldum. Tek kelime yok, mesaj yok, bir sabah Rory gitmişti. Hiçbir iz göremediğime göre gece boyunca kar yağmış olmalı..."
+		"Simplified Chinese":"我不记得我们是怎么从沉没的小船到达岸边的了。我试着反复与罗瑞谈论那个晚上发生的事情，但始终没有得到令人满意的答案。就好像那个晚上什么都没有发生，就好像我们只是突然间出现在这个岛上一样\n\n随着我在这里生活的时间越长，我开始越发的感觉到了那种..疏离感？我依然记得我是谁以及我是如何来到这里的，尽管只有局部的记忆，但是过去每一天都变得越发的模糊了\n\n一个月后我发现自己孤身一人，没有任何笔记。一天早上，罗瑞突然不见了。肯定是晚上下过雪，因为我已无法看到他的踪迹……"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_7": {
 		"English": "Note from a lost soul #7",
@@ -1107,6 +1245,7 @@
 		"Japanese": "失われた魂からのメッセージ #7",
 		"German": "Nachricht einer verlorenen Seele #7",
 		"Turkish": "Kayıp ruhtan bir not #8"
+		"Simplified Chinese":"迷失的灵魂笔记#7"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_7": {
 		"English": "I had a dream last night, Ro. It was roughly like this:\n\nI was sitting in a helicopter. Looking outside, I saw nothing but white haze. Cabin was all filled with equipment: ropes, tools, cameras. And there was a wolf. A wolf was sitting across me, and we were talking. Nothing of what wolf was saying made any sense, something about friendship and ghosts and uhh.. magnets? That's all I can recall. Then I felt it was time to get out, so I went looking for the rope. Suddenly I shivered in fear, looking over my shoulder I saw the wolf right up my face smacking it's jaws: 'Over again!'. I tipped over the door and fell right out of my dream\n\nHa-ha, could you imagine what happened for real that evening though. Damned wolf took my leg and scurried away! Caught me off guard. I managed to track it down though, don't worry about me. Now that I think about it.. that wolf looked exactly like the one from the dream. You learn to tell bastards apart when they are the only living things you met every day\n\n'Over again'. The hell would that mean?",
@@ -1114,6 +1253,7 @@
 		"Japanese": "昨日の夜、夢を見たんだ、ロー。だいたいこんな感じだった：\n\n私はヘリコプターに乗っていた。外を見ると、白い靄がかかっていて何も見えなかった。機内にはロープや道具、カメラなどの機材がぎっしりと積まれていた。そして、オオカミがいた。オオカミは私の向かいに座っていて、私と会話していた。オオカミの言うこと、友情とか幽霊とか……磁石？はどれも意味をなしていなかった。それしか思い出せない。そして、そろそろ外に出ようと思って、ロープを探したんだ。突然、私は恐怖に震えた、肩越しに振り向くと、オオカミが私の顔の真上で顎を鳴らしていたんだ。『オーバーアゲイン！』私はドアを倒し、そのまま夢から覚めてしまった。 \n\nはは、その夜、実際に何が起こったか君は想像がつくだろうか。あの忌々しいオオカミが私の靴を取って逃げたんだ！不意を突かれたよ。でも、なんとか見つけ出せたから心配しないでくれ。今にして思えば……あのオオカミは夢に出てきたオオカミと瓜二つだった。君も毎日会っている生き物の中の、ろくでなしの見分け方を学ぶんだ。 \n\n『オーバーアゲイン』、一体どういう意味なんだろうか？",
 		"German": "Letzte Nacht hatte ich einen Traum, Ro. Es war ungefähr so:\n\nIch saß in einem Hubschrauber. Als ich nach draußen schaute, sah ich nichts als weißen Dunst. Die Kabine war voller Ausrüstung: Seile, Werkzeuge, Kameras. Und da war ein Wolf. Ein Wolf saß mir gegenüber und wir unterhielten uns. Nichts von dem, was der Wolf sagte, ergab irgendeinen Sinn. Etwas über Freundschaft und Geister und, ähm... Magnete? Das ist alles, woran ich mich erinnern kann. Dann hatte ich das Gefühl, dass es an der Zeit war auszusteigen, also machte ich mich auf die Suche nach einem Seil. Plötzlich zitterte ich vor Angst. Als ich über meine Schulter schaute, sah ich, wie der Wolf direkt vor meinem Gesicht mit dem Maul schmatzte: 'Noch einmal!'. Ich kippte über die Tür und fiel direkt aus meinem Traum.\n\nHaha, kannst du dir vorstellen, was an diesem Abend wirklich passiert ist? Der verdammte Wolf nahm mein Bein und rannte davon! Er traf mich unerwartet. Ich habe es jedoch geschafft, ihn aufzuspüren. Machen Sie sich um mich keine Sorgen. Wenn ich jetzt darüber nachdenke, sah der Wolf genauso aus, wie der aus dem Traum. Du lernst Bastarde zu unterscheiden, wenn sie die einzigen Lebewesen sind, denen du jeden Tag begegnest.\n\n'",
 		"Turkish": "Dün gece bir rüya gördüm, Ro. Kabaca şöyleydi:\n\nBir helikopterde oturuyordum. Dışarıya baktığımda beyaz pustan başka bir şey görmedim. Kabinin tamamı ekipmanla doluydu: ipler, aletler, kameralar. Ve bir kurt vardı. Karşımda bir kurt oturuyordu ve konuşuyorduk. Kurdun söylediklerinin hiçbiri mantıklı gelmiyordu, arkadaşlık, hayaletler ve uhh.. mıknatıslar hakkında bir şeyler mi? Tüm hatırlayabildiğim bu. Sonra dışarı çıkma zamanının geldiğini hissettim ve ipi aramaya gittim. Aniden korkuyla titredim, omzumun üzerinden baktığımda kurdun tam yüzümde çenesini şapırdattığını gördüm: 'Tekrar tekrar!'. Kapıyı devirdim ve rüyamdan düştüm\n\nHa-ha, o akşam gerçekten ne olduğunu hayal edebiliyor musun? Lanet kurt bacağımı aldı ve kaçtı! Beni gafil yakaladı. Yine de izini sürmeyi başardım, benim için endişelenme. Şimdi düşünüyorum da... o kurt tıpkı rüyadakine benziyordu. Her gün karşılaştığınız tek canlı onlar olduğunda, piçleri birbirinden ayırmayı öğreniyorsunuz\n\n'Yeniden'. Bu ne anlama geliyor?"
+		"Simplified Chinese":"罗瑞，我昨晚做了个梦，梦里大致是这样的:\n\n我坐在一架直升机中，环顾四周，只能看到白雾弥漫。机舱里塞满了各种装备：绳索、工具和摄像机。还有一只狼。那只狼坐在我对面，我们在交谈。但我听不懂那只狼在说些什么，大概是友谊、幽灵和磁体之类的东西吧。我感觉该走了，于是我开始找绳索。可就在此时，我感到一阵惊恐，回头一看，那只狼的脑袋已经跨过我的肩头离我非常近，嘴里哼哼着：“再来一次！” 我赶紧推门而出，结果从梦中掉下来摔醒了\n\n哈哈，你能想象那天晚上到底发生了什么吗？有只该死的狼咬了我的腿，然后逃走了！让我猝不及防。不过我还是设法追踪到了它，不用担心。现在想想，那只狼看起来就像我梦里见过的那只。当你每天只会遇到这种动物时，你就能学会如何辨别它们的特征\n\n“再来一次”到底是什么意思？"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_8": {
 		"English": "Note from a lost soul #8",
@@ -1122,6 +1262,7 @@
 		"Japanese": "失われた魂からのメッセージ #8",
 		"German": "Nachricht einer verlorenen Seele #8",
 		"Turkish": "Kayıp ruhtan bir not #8"
+		"Simplified Chinese":"迷失的灵魂笔记#8"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_8": {
 		"English": "You won't believe me, but I just now noticed the similarity in the names. I swear it was not my intention to call you after Rory. I knew a few other good people whose name started with R though. And you are a good person. So it fits you well, I think\n\nI can't remember how Rory was. Can't even remember the face. It's just a blank character in my head...\n\nThat last image of Jiji will never leave my head though. Never wondered if cats can survive cold weather. If so, she would probably found me by now, right? On the other hand, who knows what Aurora does to one's soul. Have you seen what it does to poor wolves?\n\n...\n\nDo you think Rory found a way out?",
@@ -1129,6 +1270,7 @@
 		"Japanese": "信じないだろうが、今になって名前の類似性に気づいた。ロリーにちなんで君を呼ぶつもりはなかったんだ。名前がRで始まるいい奴を他にも何人か知っていたんだけどね。そして、あなたはいい奴だ。だから、君にぴったりだと私は思うんだ。 \n\nロリーがどんな奴だったか思い出せない。顔さえも思い出せない。私の頭の中のロリーは空白のままなんだ...。 \n\nでも、最後のジジのイメージは、私の脳裏から離れないだろう。猫って寒さに強いのかって思ったことないんだ。もしそうなら、今頃ジジは私を見つけてるはず、そうじゃないかな？一方で、オーロラが人の魂に何をもたらすかなんて誰にもわからない。君は哀れな狼がどうなるか見たことあるかい？ \n\n...\n\n君は、ロリーは逃げ道を見つけたと思うかい？",
 		"German": "Du wirst es mir nicht glauben, aber mir ist gerade erst die Ähnlichkeit der Namen aufgefallen. Ich schwöre, es war nicht meine Absicht, dich nach Rory zu nennen. Ich kannte jedoch ein paar gute Leute, deren Name mit R begann. Und du bist ein guter Mensch. Es passt also zu dir, denke ich.\n\nIch kann mich nicht erinnern, wie Rory war. Ich kann mich nicht einmal mehr an das Gesicht erinnern. Es ist nur ein leeres Zeichen in meinem Kopf...\n\nDas letzte Bild von Jiji wird mir jedoch nie aus dem Kopf gehen. Ich habe mich nie gefragt, ob Katzen kaltes Wetter überleben können. Wenn ja, hätte sie mich wahrscheinlich inzwischen gefunden, oder? Andererseits, wer weiß, was die Aurora mit der Seele macht. Hast du gesehen, was es mit den armen Wölfen macht?\n\n...\n\nGlaubst du, Rory hat einen Ausweg gefunden?",
 		"Turkish": "Bana inanmayacaksın ama isimlerdeki benzerliği şimdi fark ettim. Yemin ederim niyetim Rory'den sonra seni aramak değildi. Adı R ile başlayan birkaç iyi insan daha tanıyordum. Ve sen iyi bir insansın. Yani sana çok yakışmış, sanırım\n\nRory'nin nasıl olduğunu hatırlayamıyorum. Yüzünü bile hatırlayamıyorum. Kafamda sadece boş bir karakter...\n\nJiji'nin o son görüntüsü yine de aklımdan hiç çıkmayacak. Kedilerin soğuk havalarda hayatta kalıp kalamayacaklarını hiç merak etmemiştim. Eğer öyleyse, muhtemelen şimdiye kadar beni bulurdu, değil mi? Öte yandan Aurora'nın insanın ruhuna neler yaptığını kim bilebilir. Zavallı kurtlara ne yaptığını gördün mü?\n\n...\n\nSence Rory bir çıkış yolu buldu mu?"
+		"Simplified Chinese":"你可能不相信我，但我刚刚才注意到我们名字有相似之处。我发誓我不是故意以罗瑞的名字来称呼你。不过，我认识许多名字以R开头的好人。而你也是一个好人，所以我想这个名字很适合你\n\n我不记得罗瑞的样子了，甚至连面容都想不起来了。在我的脑海中，他只是一个空白的角色\n\n吉吉的印象将永远停留在我的脑海中。我从来没有想过猫能否在寒冷的天气中生存。如果可以的话，她也许已经找到了我，对吗？换个角度来讲，什么样的极光才会对灵魂产生影响。你有看过极光对可怜的狼产生的影响吗？\n\n...\n\n你觉得罗瑞找到出路了吗？"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_9": {
 		"English": "Note from a lost soul #9",
@@ -1137,6 +1279,7 @@
 		"Japanese": "失われた魂からのメッセージ #9",
 		"German": "Nachricht einer verlorenen Seele #9",
 		"Turkish": "Kayıp ruhtan bir not #9"
+		"Simplified Chinese":"迷失的灵魂笔记#9"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_9": {
 		"English": "Ro, I saw someone!\n\nWoke up from a gunshot in the middle of the night, looked out the window and saw a flare in the distance. The night was clear, so I took a torch and ran towards it as fast as I could. Didn't make it in time still, the shooter was already gone. I wish I thought to get my distress pistol, but I was too excited to see another human\n\nThe shooter was not very good it seemed, as the wolf was alive and irritated. I had to retreat to a nearest barn\n\nIn the morning I went back to the farmhouse where I was residing. The shooter spent the night there and felt free to take some of my stuff. We have missed each other again. Well... my fault",
@@ -1144,6 +1287,7 @@
 		"Japanese": "ロー、人を見たんだ！\n\n真夜中に銃声で目が覚め、窓の外を見ると、遠くに照明弾が見えた。夜空は晴れていたから、たいまつを持ってそこへ全速力で走ったんだ。だけど間に合わなくて、照明弾を撃った人はすでにいなくなっていたんだ。信号拳銃を入手することを考えるべきだったんだろうけど、私は他の人に会えるのが楽しみで仕方がなかったんだ。\n\nその人の射撃の腕はあまり良くなかったようで、撃たれたオオカミは生きていて、興奮していた。おかげで近くの納屋に逃げ込むことになったよ。\n\n朝になって、私は居住していた農家へ戻った。信号拳銃を撃った人はそこで一晩を過ごし、私の荷物を好き勝手に持っていっていた。お互い出会うことにしくじったわけだ。ああ……私のせいだな。",
 		"German": "Ro, ich habe jemanden gesehen!\n\nIch bin mitten in der Nacht von einem Schuss aufgewacht, habe aus dem Fenster geschaut und in der Ferne eine Leuchtrakete gesehen. Die Nacht war klar, also nahm ich eine Taschenlampe und rannte so schnell ich konnte darauf zu. Habe es nicht rechtzeitig geschafft, der Schütze war schon weg. Ich wünschte ich hätte daran gedacht, mir eine Notsignal-Pistole mitzunehmen, aber ich war zu aufgeregt, einen anderen Menschen zu sehen.\n\nDer Schütze war anscheinend nicht sehr gut, der Wolf war noch am Leben, aber gereizt. Ich musste mich in die nächstgelegene Scheune zurückziehen.\n\nAm Morgen ging ich zurück zum Bauernhaus, in dem ich wohnte. Der Schütze verbrachte die Nacht dort und nahm einige meiner Sachen mit. Wir haben uns wieder einmal verpasst. Nun... meine Schuld.",
 		"Turkish": "Ro, birini gördüm!\n\nGece yarısı bir silah sesiyle uyandım, pencereden dışarı baktım ve uzakta bir işaret fişeği gördüm. Gece açıktı, bu yüzden bir meşale aldım ve elimden geldiğince hızlı bir şekilde ona doğru koştum. Hala zamanında gelmedi, tetikçi çoktan gitmişti. Keşke imdat tabancamı almayı düşünseydim ama başka bir insan göreceğim için çok heyecanlıydım\n\nAtıcı pek iyi görünmüyordu, çünkü kurt canlı ve sinirliydi. En yakın ahıra çekilmek zorunda kaldım\n\nSabah, yaşadığım çiftlik evine geri döndüm. Tetikçi geceyi orada geçirdi ve eşyalarımdan bazılarını almakta özgür hissetti. Yine özledik birbirimizi. Benim hatam"
+		"Simplified Chinese":"罗瑞，我看到了有人！\n\n我在深夜被枪声吵醒，望出窗外看到远处有人打出照明弹。夜空很晴朗，于是我拿起手电筒朝那里跑去，但最终还是未能赶上，枪手已经不见踪影。有活人出现让我激动得忘带信号枪\n\n他看起来并不是很厉害，因为我看到了那只凶狠的狼还活着。我只能退到附近的谷仓来躲避\n\n第二天早上，我回到了我住的农舍。枪手在那里过了一夜，并随意拿走了一些物资。我们再次错过了彼此。唉...我的过失"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_10": {
 		"English": "Note from a lost soul #10",
@@ -1152,6 +1296,7 @@
 		"Japanese": "失われた魂からのメッセージ #10",
 		"German": "Nachricht einer verlorenen Seele #10",
 		"Turkish": "Kayıp ruhtan bir not #10"
+		"Simplified Chinese":"迷失的灵魂笔记#10"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_10": {
 		"English": "Are you listening to me right now, Ro? I can't sleep anymore... That someone.. is following me. My supplies are going missing every night\n\nEarly morning, it was very foggy but I saw a figure, close. No response to my calls, so I went after it. Coming back emptyhanded, all my equipment was gone. Should've guessed. It's like they are toying with me. Was that flare earlier also a lure? What kind of person would do that when we're fighting for our lives every day?\n\nI keep my notepad on me though, you can't take away my thoughs.\n\nUnless that someone was you, Ro?...",
@@ -1159,6 +1304,7 @@
 		"Japanese": "ロー、今、私の話を聞いているかい？もう眠れないんだ……。あいつが……私をつけている。毎晩のように物資が行方不明になる。\n\n早朝、霧がひどかったが、人影が見えたんだ、すぐ近くに。呼びかけても反応がないので、追いかけた。手ぶらで帰ってきたら、荷物が全部なくなってた。察するべきだった。まるで、私を弄んでいるようだ。あの照明弾も罠だったのか？私たちは毎日命がけで戦っているのに、そんなことをする人がいるのだろうか。\n\nでも、メモ帳は持ち歩いてるんだ、これだけは誰にも奪えない。\n\nその誰かが、君じゃなければ、ロー……。",
 		"German": "Hörst du mir gerade zu, Ro? Ich kann nicht mehr schlafen... Da ist jemand... Er folgt mir. Jede Nacht gehen Vorräte von mir verloren.\n\nAm frühen Morgen war es sehr neblig, aber ich sah eine Gestalt ganz in der Nähe. Keine Reaktion auf mein Rufen, also ging ich einfach weiter. Als ich mit leeren Händen zurückkam, war meine gesamte Ausrüstung weg. Ich hätte es ahnen müssen. Es ist, als würde er mit mir spielen. War die Fackel früher ein Lockmittel? Was für ein Mensch würde das tun, wenn wir doch jeden Tag um unser Leben kämpfen?\n\nMeinen Notizblock behalte ich bei mir, meine Gedanken kann mir niemand wegnehmen.\n\nEs sei denn, dieser jemand wärest du, Ro? ...",
 		"Turkish": "Şu anda beni dinliyor musun, Ro? Artık uyuyamıyorum... O biri.. beni takip ediyor. Malzemelerim her gece kayboluyor\n\nSabah erken saatlerde hava çok sisliydi ama yakınlarda bir figür gördüm. Aramalarıma cevap yok, ben de peşinden gittim. Elim boş döndüğümde tüm ekipmanım gitmişti. Tahmin etmeliydim. Sanki benimle oynuyorlar. Daha önceki parlama da bir yem miydi? Her gün hayatlarımız için savaşırken ne tür bir insan bunu yapar?\n\nYine de not defterimi üzerimde tutuyorum, düşüncelerimi alamazsınız.\n\nTabi o biri sen değilsen, Ro?. .."
+		"Simplified Chinese":"你在听我说话吗，罗瑞？我再也睡不着了...有人在跟踪我。我的物资每晚都会丢失\n\n清晨的雾很大，但我看到了一个身影，很近。我呼喊了几声，没有回应，我朝着那个身影跟了过去。当我回来的时候，发现所有的装备都不见了。早就该想到了。他们像是在玩我一样。之前的信号弹难道也是他们设置的诱饵吗？我们每天都在为生存而拼搏，到底什么人才会这么干？\n\n笔记我都是随身携带，你无法撼动我的思想\n\n除非那个人是你，罗瑞… "
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_11": {
 		"English": "Note from a lost soul #11",
@@ -1167,6 +1313,7 @@
 		"Japanese": "失われた魂からのメッセージ #11",
 		"German": "Nachricht einer verlorenen Seele #11",
 		"Turkish": "Kayıp ruhtan bir not #11"
+		"Simplified Chinese":"迷失的灵魂笔记#11"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_11": {
 		"English": "Are you scared? Are you afraid of me? Why are you hiding? I need you to talk to me. I can't recall anything anymore. My memory is fading. Everything is covered with snow. But there's you. Ro, you are the only one who knows me\n\nI remember the lighthouse. I told you about the green lighthouse? I will get there. Please come see me. I won't hide this message this time, to be sure you can find it\n\nHow long have I been wandering here? Please tell me",
@@ -1174,6 +1321,7 @@
 		"Japanese": "怖いのか？私が怖いのか？なぜ隠れているんだ？話して欲しいんだ。もう何も思い出せない。記憶が薄れていく。何もかも雪で覆われてしまった。だけど、君がいる。ロー、私を知っているのは君だけだ。\n\n灯台のことは覚えているかい。君に緑の灯台の話をしたよな？私はそこに行く。頼むから会いに来てくれ。今回はこのメッセージを隠さない、確実に見つけてもらうために。\n\n私はいつからここをさまよっていたのだろうか？教えてくれ。",
 		"German": "Bist du erschrocken? Hast du Angst vor mir? Warum versteckst du dich? Du musst mit mir reden. Ich kann mich an nichts mehr erinnern. Meine Erinnerungen verblassen. Alles ist mit Schnee bedeckt. Aber du bist da, Ro. Du bist der Einzige, der mich kennt.\n\nIch erinnere mich an den Leuchtturm. Ich habe dir vom grünen Leuchtturm erzählt? Ich werde dort hinkommen. Bitte komm zu mir. Dieses Mal werde ich diese Nachricht nicht verstecken, um sicherzustellen, dass du sie finden kannst.\n\nWie lange wandere ich hier schon umher? Bitte sage es mir...",
 		"Turkish": "Korktun mu? Benden korkuyor musun? Neden saklanıyorsun? Benimle konuşmana ihtiyacım var. Artık hiçbir şey hatırlayamıyorum. Hafızam siliniyor. Her şey karla kaplı. Ama sen varsın. Ro, beni tanıyan tek kişi sensin\n\nDeniz fenerini hatırlıyorum. Sana yeşil deniz fenerinden bahsettim mi? Oraya geleceğim. Lütfen gel beni gör. Bulabileceğinden emin olmak için bu mesajı bu kez saklamayacağım\n\nNe zamandır burada dolaşıyorum? lütfen söyle"
+		"Simplified Chinese":"你害怕了？是在怕我吗？为什么要躲起来？我要你跟我说话。我已经记不起任何事了，我的记忆正在逐渐模糊。冰雪掩埋了一起，包括你。罗瑞，你是我唯一认识的人了\n\n我还记得那座灯塔。我告诉过你有关绿色灯塔的事？我会去里去，希望你能来看我。这次我不会隐藏笔记了，你能轻松发现它\n\n谁能告诉我，我在这里待多久了？"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_12": {
 		"English": "Note from a lost soul #12",
@@ -1182,6 +1330,7 @@
 		"Japanese": "失われた魂からのメッセージ #12",
 		"German": "Nachricht einer verlorenen Seele #12",
 		"Turkish": "Kayıp ruhtan bir not #11"
+		"Simplified Chinese":"迷失的灵魂笔记#12"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_12": {
 		"English": "You... you know too much about me... you know everything! I told you everything... And you treat me this way?\n\nI found your message here. You made sure to hide it from me but I found it! You dare to mock me with those words... Making fun of me?\n\nI can't end it now... I will find you. I must get my memories back from you",
@@ -1189,6 +1338,7 @@
 		"Japanese": "君は……私のことを知りすぎている……何もかも知っている！何もかも話した... なのに、こんな風に私を扱うのか？\n\n君ののメッセージをここで見つけた。君は隠そうとしたんだろうが私は見つけた！そんな言葉で私をバカにするなんて……バカにしてるのか？\n\nこのままでは終われない... 必ず見つけてやる。お前から記憶を取り戻すんだ。",
 		"German": "Du... Du weißt zu viel über mich... Du weißt alles! Ich habe dir alles erzählt... Und so behandelst du mich?\n\nIch habe deine Nachricht hier gefunden. Du hast sie mir verheimlichen wollen, aber ich habe sie gefunden. Du wagst es, mich mit diesen Worten zu verspotten... Machst du dich lustig über mich?\n\nIch kann es jetzt nicht beenden... Ich werde dich finden. Ich muss meine Erinnerungen von dir zurückbekommen.",
 		"Turkish": "sen... benim hakkımda çok şey biliyorsun... her şeyi biliyorsun! Sana her şeyi anlattım... Ve sen bana böyle mi davranıyorsun?\n\nMesajını burada buldum. Benden sakladığınızdan emin oldunuz ama ben buldum! Bu sözlerle benimle alay etmeye cüret ediyorsun... Benimle dalga mı geçiyorsun?\n\nBunu şimdi bitiremem... Seni bulacağım. Anılarımı senden geri almalıyım"
+		"Simplified Chinese":"你...你对我的了解太多了...你知道了一切！我把一切都告诉了你...而你还要这样对我吗?\n\n我在这里发现了你的笔记。而你一定想把它藏起来，可惜我找到了它！你居然用那些话嘲讽我...取笑我\n\n不能就这么结束...我会找到你，必须从你那里找回我的记忆。"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_LAST": {
 		"English": "Last note from a lost soul",
@@ -1197,6 +1347,7 @@
 		"Japanese": "失われた魂からの最後のメッセージ",
 		"German": "Letzte Nachricht einer verlorenen Seele",
 		"Turkish": "Kayıp ruhtan son bir not"
+		"Simplified Chinese":"迷失的灵魂笔记 终章"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_LAST": {
 		"English": "To whomever is reading this: I'm lost\n\nI've been on this island for 500 days now, looking for another living soul. But there's nothing left but death and despair\n\nI'm setting up on my last journey. I will spread around what's left of my provisions. In case some poor soul gets stranded on this damned island - at the very least you won't have to die from starvation\n\nCome find me at the lighthouse if you will. The one on the East shore. That's where my story will come to an end",
@@ -1204,5 +1355,6 @@
 		"Japanese": "これを読んでいる誰かへ：私は死んだ。\n\nこの島に来て今日で500日、生存者を探してきた。だが、そこには死と絶望しか残されていない。\n\n私は最後の旅に出る。残り少ない食料をばらまくんだ。万が一、この忌まわしい島に流れ着いた哀れな人がいたとしても、少なくとも餓死することはないだろう。\n\n君がいいのなら灯台に会いに来てくれ。東の海岸にあるやつだ。そこで、私の物語は終わる。",
 		"German": "Wer auch immer dieses liest: Ich bin verloren.\n\nIch bin jetzt seit 500 Tagen auf dieser Insel und suche nach einer anderen lebenden Seele. Aber es bleibt nichts übrig als Tod und Verzweiflung.\n\nIch bereite mich auf meine letzte Reise vor. Ich werde den Rest meines Proviants verteilen. Für den Fall, dass eine arme Seele auf dieser verdammten Insel strandet, musst du zumindest nicht verhungern.\n\nKomm und finde mich am Leuchtturm, wenn du willst. Der am Ostufer. Damit endet meine Geschichte.",
 		"Turkish": "Bunu okuyan kişiye: Kayboldum\n\n500 gündür bu adada yaşayan başka bir ruh arıyorum. Ama ölüm ve umutsuzluktan başka bir şey kalmadı\n\nSon yolculuğuma hazırlanıyorum. Erzakımdan arta kalanları etrafa yayacağım. Zavallılardan biri bu lanet adada mahsur kalırsa - en azından açlıktan ölmek zorunda kalmazsın\n\nİstersen gel beni deniz fenerinde bul. Doğu kıyısında olan. İşte benim hikayem burada sona erecek"
+		"Simplified Chinese":"给读到这封信的人：我迷失了\n\n我已经在这个岛上寻找了500天，试图找到活人。但现在除了死亡和绝望什么都没有了\n\n我即将开始最后的旅程。我会把剩下的食物分散到各地。万一有人困在这个该死的岛上，至少不会饿死\n\n如果你愿意，就来东海岸的灯塔找我吧。那里是我的故事终结的地方"
 	}
 }
