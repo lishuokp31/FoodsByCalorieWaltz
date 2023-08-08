@@ -1,0 +1,36 @@
+{
+    "Name": "lecsoFromCarrot",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_CattailStalk",
+            "Count": 2
+        },
+        {
+            "Item": "GEAR_cookingoil", 
+            "Count": 1
+        },
+        {
+            "Item": "GEAR_carrot",
+            "Count": 6
+        },
+        {
+            "Item": "GEAR_RecycledCan",
+            "Count": 1
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": [
+        "GEAR_KnifeImprovised"
+    ],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_lecso",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 120,
+    "CraftingAudio": "Play_FryingLight",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}
