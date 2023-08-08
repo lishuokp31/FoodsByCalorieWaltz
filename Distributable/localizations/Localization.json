@@ -270,7 +270,7 @@
 		"Japanese": "レチョーの缶詰",
 		"German": "Letscho",
 		"Turkish": "Lescó"
-		"Simplified Chinese":"青椒炖菜"
+		"Simplified Chinese":"蔬菜罐头"
 	},
 	"GAMEPLAY_lecsoDescription": {
 		"English": "Vegetable ragout. Begs for some baked fish\n\nPronounced ''lecho''",
@@ -279,7 +279,7 @@
 		"Japanese": "ハンガリーの野菜シチュー。こんがり焼けた魚が欲しくなる。",
 		"German": "Gemüseragout. Bittet um etwas gebackenen Fisch",
 		"Turkish": "Sebze yahnisi. Pişmiş balık için yalvarır\n\n''lecho'' olarak telaffuz edilir"
-		"Simplified Chinese":"Lecsó是匈牙利特色菜，通常以青椒，红椒或番茄为主料的蔬菜乱炖。\n\n发音为''lecho''，可冷食也可开盖烹煮"
+		"Simplified Chinese":"使用能找到的各种蔬菜，结合回收的空罐，在工作台加工而成。0.5kg的重量却有着1500kcal的热量，适合出远门时携带。\n\n可永久保存。"
 	},
 	"GAMEPLAY_figConfiture": {
 		"English": "Fig Confiture",

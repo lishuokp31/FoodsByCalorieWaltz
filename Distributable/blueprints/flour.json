@@ -1,0 +1,28 @@
+{
+    "Name": "flour",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_CattailStalk",
+            "Count": 15
+        },
+        {
+            "Item": "GEAR_DistilledWater",
+            "Count": 2
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_Hammer",
+    "OptionalTools": [
+        "GEAR_Hatchet"
+    ],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_flour",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 500,
+    "CraftingAudio": "PLAY_HARVESTINGACORNS",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}
