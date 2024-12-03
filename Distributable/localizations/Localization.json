@@ -103,8 +103,8 @@
 	},
 	"GAMEPLAY_hotSpringSoda": {
 		"English": "Hot Spring Soda",
-		"Russian": "Газировка ''Горячий источник''",
-		"Polish": "Napój ''Ciepła Wiosna''",
+		"Russian": "'Газировка' 'Горячий источник'",
+		"Polish": "'Napój' 'Ciepła Wiosna'",
 		"Japanese": "ホットスプリングソーダ",
 		"German": "Quellwasser-Soda",
 		"Turkish": "Kaplıca Gazozu"
@@ -229,8 +229,8 @@
 	},
 	"GAMEPLAY_solitudeCider": {
 		"English": "Solitude Cider",
-		"Russian": "Сидр ''Отшельник''",
-		"Polish": "Cydr ''Samotność''",
+		"Russian": "'Сидр' 'Отшельник'",
+		"Polish": "'Cydr' 'Samotność'",
 		"Japanese": "ソリチュードサイダー",
 		"German": "Solitude Apfelwein",
 		"Turkish": "Elma Şarabı"
@@ -266,7 +266,7 @@
 	"GAMEPLAY_lecso": {
 		"English": "Lecsó",
 		"Russian": "Лечо",
-		"Polish": "Leczo ''Lecsó''",
+		"Polish": "'Leczo' 'Lecsó'",
 		"Japanese": "レチョーの缶詰",
 		"German": "Letscho",
 		"Turkish": "Lescó"
@@ -320,7 +320,7 @@
 	"GAMEPLAY_kvass": {
 		"English": "Kvass",
 		"Russian": "Квас",
-		"Polish": "Drink ''Kwas''",
+		"Polish": "'Drink' 'Kwas'",
 		"Japanese": "クワース",
 		"German": "Kwass",
 		"Turkish": "Kvass"
@@ -446,7 +446,7 @@
 	"GAMEPLAY_latteDrops": {
 		"English": "Latte Drops",
 		"Russian": "Карамель кофе с молоком",
-		"Polish": "",
+		"Polish": "Latte Drops",
 		"Japanese": "カフェラッテドロップ",
 		"German": "Latte-Drops",
 		"Turkish": "latte damlaları"
@@ -455,7 +455,7 @@
 	"GAMEPLAY_latteDropsDescription": {
 		"English": "Condensed coffee cups in a form of candy. Tastes as good, without the whole brewing hassle. \n\nGives a little energy boost",
 		"Russian": "Чашка кофе в каждой конфете. Тот же вкус, без надобности варить кофе. \n\nДаёт небольшой заряд энергии",
-		"Polish": "",
+		"Polish": "Condensed coffee cups in a form of candy. Tastes as good, without the whole brewing hassle. \n\nGives a little energy boost",
 		"Japanese": "キャンディーの形をした濃縮コーヒー。文句なしに美味しい。\n\nいくらかのエナジーブースト効果あり。",
 		"German": "Milchkaffee in Form von Süßigkeiten. Schmeckt genauso gut, ohne den Aufwand Kaffee zu kochen.\n\nGibt einen kleinen Energieschub",
 		"Turkish": "Şeker şeklinde konsantre kahve. Kesinlikle lezzetli. \n\nBir miktar enerji artırma etkisi vardır"
@@ -464,7 +464,7 @@
 	"GAMEPLAY_alphabetSoup": {
 		"English": "Alphabet Soup",
 		"Russian": "Суп 'Алфавит'",
-		"Polish": "",
+		"Polish": "Alphabet Soup",
 		"Japanese": "アルファベットスープ",
 		"German": "Buchstaben-Suppe",
 		"Turkish": "Alfabe Çorbası"
@@ -473,7 +473,7 @@
 	"GAMEPLAY_alphabetSoupDescription": {
 		"English": "Classic alphabet soup. Tastes of nostalgia and good mood. \n\nWhat mood came up for you?",
 		"Russian": "Классический алфавитный суп. На вкус как ностальгия и хорошее настроение. \n\nКакое настроение получилось у вас?",
-		"Polish": "",
+		"Polish": "Classic alphabet soup. Tastes of nostalgia and good mood. \n\nWhat mood came up for you?",
 		"Japanese": "昔ながらのアルファベットスープ。懐かしい味わいが良い雰囲気を呼び覚ます。\n\nあなたにも良い雰囲気を。",
 		"German": "Klassische Buchstaben-Suppe. Schmeckt nach Nostalgie und guter Laune. \n\nWelche Stimmung kommt bei dir auf?",
 		"Turkish": "Klasik alfabe çorbası. Nostalji tadı ve iyi bir ruh hali. \n\nSizin için hangi ruh hali geldi?"
@@ -482,7 +482,7 @@
 	"GAMEPLAY_hematogen": {
 		"English": "Hematogen",
 		"Russian": "Гематоген",
-		"Polish": "",
+		"Polish": "Hematogen",
 		"Japanese": "ゲマトーゲン",
 		"German": "Hämatogen",
 		"Turkish": "Hematojen"
@@ -491,7 +491,7 @@
 	"GAMEPLAY_hematogenDescription": {
 		"English": "Albumin ingredient probably doesn't make a lot of sense. It's blood. \n\nMakes you heal faster, tastes good as a side effect",
 		"Russian": "Альбумин в составе наверняка выглядит странно. Это кровь. \n\nПомогает в выздоровлении, в качестве побочного эффекта - неплохой вкус",
-		"Polish": "",
+		"Polish": "Albumin ingredient probably doesn't make a lot of sense. It's blood. \n\nMakes you heal faster, tastes good as a side effect",
 		"Japanese": "アルブミンの成分を意味するこのネーミングはいささか奇妙ではある。これは血液のことなのだ（材料に牛の血を含む）。\n\n君の回復力を高めてくれるが美味しさについては二の次である。",
 		"German": "Der Inhaltsstoff Albumin macht wahrscheinlich nicht viel Sinn. Es ist Blut. \n\nHeilt dich schneller, und schmeckt nebenbei ganz gut",
 		"Turkish": "Albümin içeriği muhtemelen pek bir anlam ifade etmiyor. Bu kan. \n\nDaha hızlı iyileşmenizi sağlar, yan etki olarak tadı güzeldir"
@@ -500,7 +500,7 @@
 	"GAMEPLAY_rahatLokum": {
 		"English": "Turkish Delight",
 		"Russian": "Рахат-Лукум",
-		"Polish": "",
+		"Polish": "Turkish Delight",
 		"Japanese": "ターキッシュ・ディライト",
 		"German": "Türkischer Honig",
 		"Turkish": "Türk Lokumu"
@@ -509,7 +509,7 @@
 	"GAMEPLAY_rahatLokumDescription": {
 		"English": "Delicate, delicious candy. Turkish classic. There's a flavor for everyone, so you can't say you don't like it",
 		"Russian": "Нежный, тающий во рту десерт. Классическая турецкая сладость. Вкусов хватит на всех, не пытайтесь отвертеться",
-		"Polish": "",
+		"Polish": "Delicate, delicious candy. Turkish classic. There's a flavor for everyone, so you can't say you don't like it",
 		"Japanese": "柔らかく美味しいキャンディー。トルコの伝統菓子。この香りを嫌いだなんて言えるわけがない。",
 		"German": "Zarte, köstliche Süßigkeit. Türkischer Klassiker. Für jeden Geschmack ist etwas dabei, man kann also nicht sagen, dass es jemandem nicht schmeckt",
 		"Turkish": "Lezzetli, lezzetli şeker. Türk klasiği. Herkese göre bir lezzet vardır beğenmedim diyemezsin"
@@ -879,7 +879,7 @@
 		"English": "There is no gambling addiction among bears. They just love the sound the cards make. What was the bear playing? Poker? \n\nDo not attempt to search for cards near bear dens",
 		"Russian": "Медведи не азартны, им просто нравится звук тасуемых карт. Во что он играл? Покер?. \n\nНе пытайтесь найти карты рядом с медвежьей берлогой",
 		"Polish": "Wśród niedźwiedzi nie ma uzależnienia od hazardu. Po prostu uwielbiają dźwięk, który wydają karty. W co grał miś? W Pokera? \n\nNie próbuj szukać kart w pobliżu legowisk niedźwiedzi",
-		"Japanese": "クマたちの間にはギャンブル依存症はありません。彼らはカードが出す音が大好きなのです。このクマは何をプレイしているのでしょうか？ポーカー？ \n\n（クマの巣穴の近くでカードを探してはいけません）",
+		"Japanese": "クマたちの間にはギャンブル依存症はありません。彼らはカードが出す音が大好きなのです。このクマは何をプレイしているのでしょうか？ポーカー？ \n\n（クマの巣穴の近くでカードを探してはいけません",
 		"German": "Bei Bären gibt es keine Spielsucht. Sie lieben einfach den Klang, den Karten machen. Was spielte der Bär? Poker? \n\nVersuchen Sie nciht, in der Nähe von Bärenhöhlen nach Karten zu suchen.",
 		"Turkish": "Ayılar arasında kumar bağımlılığı yoktur. Sadece kartların çıkardığı sesi seviyorlar. Ayı ne oynuyordu? Poker? \n\nAyı yuvalarının yakınında kart aramaya çalışmayın"
 		"Simplified Chinese":"熊在玩什么？扑克？然而他们不会嗜赌成瘾而只享受打牌时发出的声响\n\n不要在熊窝附近寻找纸牌"
@@ -906,7 +906,7 @@
 		"English": "Bears have a lot of free time. And what else would they do with all those survivor clothes? \n\nDo not attempt to steal clothes from snowmen",
 		"Russian": "У медведей очень много свободного времени. И что еще им делать со всей этой одеждой выживших? \n\nНе пытайтесь воровать вещи со снеговиков",
 		"Polish": "Niedźwiadki mają dużo wolnego czasu. A co innego zrobiliby z tymi wszystkimi ubraniami ocalałych? \n\nNie próbuj kraść ubrań bałwanom",
-		"Japanese": "クマたちには有り余るほどの時間があります。そして、そのサバイバーの衣服の使い道は他になかったのでしょうか？ \n\n（雪だるまから服を盗んではいけません）",
+		"Japanese": "クマたちには有り余るほどの時間があります。そして、そのサバイバーの衣服の使い道は他になかったのでしょうか？ \n\n（雪だるまから服を盗んではいけません",
 		"German": "Bären haben viel Freizeit. Und was würden sie sonst mit dieser Überlebenskleidung machen? \n\nVersuchen Sie nicht, Schneemännern Kleidung zu stehlen.",
 		"Turkish": "Ayıların çok fazla boş zamanı vardır. Ve tüm bu kurtulan kıyafetleriyle başka ne yapacaklardı? \n\nve kardan adamdan kıyafet çalmaya çalışmayın"
 		"Simplified Chinese":"熊通常很闲。它们拿幸存者的衣物在做什么?\n\n不要从雪人那里偷衣服"
@@ -1343,7 +1343,7 @@
 	"GAMEPLAY_LOSTNOTE_TITL_LAST": {
 		"English": "Last note from a lost soul",
 		"Russian": "Последняя записка от потерянной души",
-		"Polish": "",
+		"Polish": "Last note from a lost soul",
 		"Japanese": "失われた魂からの最後のメッセージ",
 		"German": "Letzte Nachricht einer verlorenen Seele",
 		"Turkish": "Kayıp ruhtan son bir not"
